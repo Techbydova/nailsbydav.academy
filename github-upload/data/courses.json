@@ -1,0 +1,650 @@
+[
+  {
+    "id": "beginner",
+    "title": "Beginner Nail Class",
+    "slug": "beginner-nail-class",
+    "shortDescription": "A practical foundation course for aspiring nail techs who want to build confidence and technical skill.",
+    "description": "A practical foundation course for aspiring nail techs who want to build confidence and technical skill.",
+    "overview": "This beginner course introduces the essentials of nail preparation, hygiene, product handling, and client-ready finishing. It is designed for students who are starting from scratch or building a more structured foundation. By the end of the course, students should be able to prepare the natural nail correctly, apply a clean basic set, and understand the core workflow used in a salon environment.",
+    "price": 1800,
+    "currency": "ZAR",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "category": "Foundation course",
+    "instructor": {
+      "name": "Instructor information coming soon",
+      "role": "NailsByDav Academy",
+      "bio": "Instructor information coming soon.",
+      "image": "",
+      "experience": "",
+      "teachingFocus": "Foundational technique and practical workflow"
+    },
+    "requirements": [
+      "No formal prior nail experience is required.",
+      "A basic study routine and time for practical repetition are recommended.",
+      "Students should have access to a clean workstation and a basic beginner kit for practice."
+    ],
+    "learningOutcomes": [
+      "Identify the structure of the natural nail and explain why preparation matters.",
+      "Follow a hygiene-first service workflow before product application.",
+      "Prepare the nail plate, cuticle area, and surrounding skin with control.",
+      "Apply and finish a beginner-level set with consistent shape and balance.",
+      "Spot common beginner mistakes and correct them during practice."
+    ],
+    "materials": [
+      {
+        "category": "tools",
+        "module": "Module 1",
+        "title": "Basic prep kit",
+        "summary": "Nail file, buffer, cuticle pusher, brush, and cleanser for a clean service setup.",
+        "type": "Tools"
+      },
+      {
+        "category": "products",
+        "module": "Module 2",
+        "title": "Product control essentials",
+        "summary": "A small selection of products used for prep, base, colour, and finish.",
+        "type": "Products"
+      },
+      {
+        "category": "safety",
+        "module": "Module 3",
+        "title": "Hygiene checklist",
+        "summary": "Sanitiser, wipes, and a tidy station routine for safe practice.",
+        "type": "Safety"
+      },
+      {
+        "category": "practice",
+        "module": "Module 4",
+        "title": "Practical work plan",
+        "summary": "A simple workflow for completing a full beginner set with clear checkpoints.",
+        "type": "Practice"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who is this course for?",
+        "answer": "This course is designed for students who are new to nail work or want a clearer foundation before moving into more advanced technique."
+      },
+      {
+        "question": "Do I need prior experience?",
+        "answer": "No prior formal experience is required. The course starts with the basics of prep, hygiene, and application."
+      },
+      {
+        "question": "What materials do I need?",
+        "answer": "A basic starter kit, clean workstation, and the products listed in the course materials section are recommended for practice."
+      },
+      {
+        "question": "How long does the course take?",
+        "answer": "The beginner class is planned over four weeks with structured lessons and practical checkpoints."
+      }
+    ],
+    "completionRequirements": {
+      "lessonsCompleted": 12,
+      "requiredAssignments": 2,
+      "requiredQuizzes": 1,
+      "minimumQuizScore": 70
+    },
+    "thumbnail": "/assets/gallery/image-01.jpg",
+    "published": true,
+    "modules": [
+      {
+        "id": "beginner-module-1",
+        "title": "Nail Technology Foundations",
+        "description": "Build a beginner foundation in preparation, product knowledge, technique, structure, safety, and finishing.",
+        "order": 1,
+        "lessons": [
+          {
+            "id": "beginner-lesson-1",
+            "title": "Welcome to NailsbyDav Academy",
+            "description": "An introduction to the Beginner course, the lesson structure, practice expectations, equipment, practical challenges, and professional hygiene.",
+            "duration": "5-8 min video",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-2",
+            "title": "What Is Nail Technology?",
+            "description": "Learn that nail technology is a complete professional skill set, not simply painting nails.",
+            "duration": "Self-paced",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-3",
+            "title": "Understanding the Natural Nail",
+            "description": "Identify the seven anatomical structures named in the source lesson and learn why anatomy matters for safe professional application.",
+            "duration": "Self-paced",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-4",
+            "title": "Nail Shapes",
+            "description": "Recognise seven nail shapes and study the complete starting-nail to filing to finished-shape demonstration format.",
+            "duration": "Self-paced",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-5",
+            "title": "Introduction to Nail Tools",
+            "description": "Identify the tools introduced in the PDF and use the same four-part reference template for each tool.",
+            "duration": "Self-paced",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "beginner-module-2",
+        "title": "Cuticle Care & Shape",
+        "description": "Develop a clear routine for working around the cuticle area and creating a balanced, healthy nail shape.",
+        "order": 2,
+        "lessons": [
+          {
+            "id": "beginner-lesson-6",
+            "title": "Creating Balanced Nail Shapes",
+            "description": "Create a shape that suits the natural nail and keeps the final look balanced and clean.",
+            "duration": "30 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-7",
+            "title": "Removing Dust and Refining the Edge",
+            "description": "Complete the final refinement stage so the nail surface feels even, clean and ready for product application.",
+            "duration": "20 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-8",
+            "title": "Common Preparation Mistakes",
+            "description": "Recognise the most common beginner preparation errors and correct them before they affect the finished result.",
+            "duration": "25 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-9",
+            "title": "Understanding Product Placement",
+            "description": "Learn how controlled placement affects balance, finish quality and the overall feel of a beginner set.",
+            "duration": "25 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-10",
+            "title": "Setting Up a Beginner Service Flow",
+            "description": "Create a simple beginner service sequence that keeps your work organised, efficient and consistent.",
+            "duration": "30 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "beginner-module-3",
+        "title": "Application & Finish",
+        "description": "Practice consistent application and tidy finishing to build a polished beginner result.",
+        "order": 3,
+        "lessons": [
+          {
+            "id": "beginner-lesson-11",
+            "title": "Product Control for a Clean Finish",
+            "description": "Learn how the amount, placement and pressure of product affect the final beginner set.",
+            "duration": "25 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-12",
+            "title": "Finishing and Seal Quality",
+            "description": "Assess the final finish for balance, shine and tidy edges so the result feels polished and complete.",
+            "duration": "30 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-13",
+            "title": "Assessing Client Comfort",
+            "description": "Recognise how a comfortable service begins with gentle pressure, balanced prep and careful finishing.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-14",
+            "title": "Troubleshooting a Uneven Finish",
+            "description": "Learn how to spot uneven finishes early and correct them without restarting the full service.",
+            "duration": "25 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-15",
+            "title": "Beginning a Practical Assessment",
+            "description": "Create a simple practical assessment routine so beginners can measure consistency, cleanliness and finish quality.",
+            "duration": "35 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "beginner-module-4",
+        "title": "Practice Workflow",
+        "description": "Follow a repeatable practice routine so the beginner course builds confidence and consistency.",
+        "order": 4,
+        "lessons": [
+          {
+            "id": "beginner-lesson-16",
+            "title": "Planning a Practice Session",
+            "description": "Build a realistic practice routine that focuses on one or two key technical improvements at a time.",
+            "duration": "20 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-17",
+            "title": "Repetition Without Rushing",
+            "description": "Learn how repetition supports confidence without sacrificing control or safety.",
+            "duration": "25 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-18",
+            "title": "Reviewing a Beginner Set",
+            "description": "Use a clear check process to review the full beginner set and make small corrections before finishing.",
+            "duration": "30 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-19",
+            "title": "Progress Tracking for Beginners",
+            "description": "Track what is improving, what still needs repetition and what is ready to refine in the next practice session.",
+            "duration": "20 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-20",
+            "title": "Building Confidence Through Structure",
+            "description": "Use structure, repetition and review to grow confidence without losing technique quality or safety awareness.",
+            "duration": "25 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "beginner-module-5",
+        "title": "Completion & Readiness",
+        "description": "Review the full beginner foundation and prepare for the next step with confidence and clarity.",
+        "order": 5,
+        "lessons": [
+          {
+            "id": "beginner-lesson-21",
+            "title": "Course Wrap-Up and Reflection",
+            "description": "Reflect on the beginner foundation and identify the habits that support stronger salon readiness.",
+            "duration": "20 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-22",
+            "title": "Hygiene and Service Readiness",
+            "description": "Confirm the full hygiene and service routine before moving into more advanced treatment or technique work.",
+            "duration": "25 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-23",
+            "title": "Safety in the Training Studio",
+            "description": "Keep a safety-first approach in the studio so the learner grows with professionalism and good habits.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-24",
+            "title": "Identifying Your Next Practice Goal",
+            "description": "Choose the next skill or habit to refine before moving into a more advanced form of learning.",
+            "duration": "20 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "beginner-lesson-25",
+            "title": "Beginner Certificate Readiness",
+            "description": "Prepare for a future assessment by reviewing key technical foundations, professional habits and safety awareness.",
+            "duration": "30 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "masterclass",
+    "title": "Nail Masterclass",
+    "slug": "nail-masterclass",
+    "shortDescription": "Master gel application, prep, finishing, and long-lasting salon-quality results.",
+    "description": "Master gel application, prep, finishing, and long-lasting salon-quality results.",
+    "overview": "Refine nail preparation, gel application, structure, and finishing for consistent salon-quality results.",
+    "price": 2600,
+    "currency": "ZAR",
+    "duration": "6 weeks",
+    "level": "Masterclass",
+    "category": "Advanced technique",
+    "requirements": [],
+    "learningOutcomes": [],
+    "materials": [],
+    "faq": [],
+    "completionRequirements": {
+      "lessonsCompleted": 25,
+      "requiredAssignments": 0,
+      "requiredQuizzes": 0,
+      "minimumQuizScore": 70
+    },
+    "thumbnail": "/assets/gallery/image-02.jpg",
+    "published": true,
+    "modules": [
+      {
+        "id": "masterclass-module-1",
+        "title": "Foundations & Precision",
+        "description": "Refine the technical art of a clean, balanced and precise salon-ready service.",
+        "order": 1,
+        "lessons": [
+          {
+            "id": "masterclass-lesson-1",
+            "title": "Advanced Nail Preparation",
+            "description": "Refine the prep process so the surface is clean, balanced and ready for more polished product work.",
+            "duration": "25 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-2",
+            "title": "Hygiene at Masterclass Level",
+            "description": "Build a more disciplined hygiene routine so the service remains professional, safe and consistent.",
+            "duration": "20 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-3",
+            "title": "Cuticle Respect & Control",
+            "description": "Work around the cuticle area with a careful approach that supports better structure and less stress on the surrounding skin.",
+            "duration": "25 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-4",
+            "title": "Natural Shape Assessment",
+            "description": "Assess the client or model nail shape carefully before choosing a more advanced silhouette.",
+            "duration": "30 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-5",
+            "title": "Mastering the Product Ratio",
+            "description": "Learn how the amount and proportion of product can affect the final masterclass finish and client comfort.",
+            "duration": "25 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "masterclass-module-2",
+        "title": "Technique & Application",
+        "description": "Build greater precision in application, placement and finishing for a more polished, controlled result.",
+        "order": 2,
+        "lessons": [
+          {
+            "id": "masterclass-lesson-6",
+            "title": "Balanced Product Placement",
+            "description": "Place product in a more deliberate way to support structure, comfort and clean visual proportion.",
+            "duration": "30 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-7",
+            "title": "Advanced Finishing Techniques",
+            "description": "Polish the finish with a stronger sense of edge control, detail and client-ready quality.",
+            "duration": "25 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-8",
+            "title": "Working with a Consistent Rhythm",
+            "description": "Build a smooth rhythm between prep, placement and finish so the service feels controlled and professional.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-9",
+            "title": "Mastering the Client Experience",
+            "description": "Improve the quality of the entire service by combining technical skill with professional communication and comfort awareness.",
+            "duration": "25 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-10",
+            "title": "Self Review and Correction",
+            "description": "Build the habit of reviewing your own work and correcting issues before they become major service problems.",
+            "duration": "30 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "masterclass-module-3",
+        "title": "Salon-Ready Execution",
+        "description": "Move from clean technique into more polished salon-ready execution with structure and quality checks.",
+        "order": 3,
+        "lessons": [
+          {
+            "id": "masterclass-lesson-11",
+            "title": "Quality Control in Practice",
+            "description": "Check each stage of the service with a quality-control mindset, not just at the end.",
+            "duration": "25 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-12",
+            "title": "Structure and Design Balance",
+            "description": "Review how structure, balance and detail create the final polished salon look.",
+            "duration": "30 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-13",
+            "title": "Client Communication During Service",
+            "description": "Use calm communication and observation to align technical progress with client comfort and confidence.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-14",
+            "title": "Troubleshooting Advanced Finish Issues",
+            "description": "Spot problems in the final surface, edge or balance and correct them with minimal disruption.",
+            "duration": "25 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-15",
+            "title": "Practical Masterclass Review",
+            "description": "Conduct a final practical review that considers preparation, finish, comfort and professionalism together.",
+            "duration": "35 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "masterclass-module-4",
+        "title": "Advanced Practice",
+        "description": "Build stronger practical habits and more refined consistency through focused repetition.",
+        "order": 4,
+        "lessons": [
+          {
+            "id": "masterclass-lesson-16",
+            "title": "Focused Practice Session",
+            "description": "Use a focused practice plan to improve one high-value skill without overloading the session.",
+            "duration": "20 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-17",
+            "title": "Avoiding Overwork",
+            "description": "Learn when to stop, adjust and refine instead of pushing technique too far.",
+            "duration": "25 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-18",
+            "title": "Reading Small Details in Finish",
+            "description": "Develop stronger noticing skills so small finish details can be corrected before the service ends.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-19",
+            "title": "Building Technical Confidence",
+            "description": "Use repeatable, structured work to build technical confidence without sacrificing quality and care.",
+            "duration": "25 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-20",
+            "title": "Preparing for a Higher Standard",
+            "description": "Begin to prepare for deeper, more polished technique by reviewing what quality, structure and control look like day to day.",
+            "duration": "30 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      },
+      {
+        "id": "masterclass-module-5",
+        "title": "Completion & Readiness",
+        "description": "Confirm the masterclass standard, review key skills and prepare for advanced work with confidence.",
+        "order": 5,
+        "lessons": [
+          {
+            "id": "masterclass-lesson-21",
+            "title": "Course Reflection & Growth",
+            "description": "Reflect on technical growth and identify the habits that will carry into more advanced work.",
+            "duration": "20 min",
+            "order": 1,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-22",
+            "title": "Reviewing Salon Readiness",
+            "description": "Assess whether the technical and professional habits you have built are ready for more polished client services.",
+            "duration": "25 min",
+            "order": 2,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-23",
+            "title": "Safety & Observation Review",
+            "description": "Reinforce the importance of careful observation and safe decision-making in every service stage.",
+            "duration": "20 min",
+            "order": 3,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-24",
+            "title": "Planning the Next Technical Goal",
+            "description": "Choose a next goal that will deepen quality without creating unnecessary pressure or poor habits.",
+            "duration": "20 min",
+            "order": 4,
+            "published": true
+          },
+          {
+            "id": "masterclass-lesson-25",
+            "title": "Masterclass Completion Readiness",
+            "description": "Confirm that the student has the technical, professional and safety habits needed to continue into more advanced work.",
+            "duration": "30 min",
+            "order": 5,
+            "published": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "advanced",
+    "title": "Advanced Nail Class",
+    "slug": "advanced-nail-class",
+    "shortDescription": "3D art, embellishments, detailing, and creative growth.",
+    "description": "3D art, embellishments, detailing, and creative growth.",
+    "overview": "Explore 3D art, embellishments, detailed work, and creative development.",
+    "price": 2900,
+    "currency": "ZAR",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "requirements": [],
+    "learningOutcomes": [],
+    "materials": [],
+    "faq": [],
+    "completionRequirements": {
+      "lessonsCompleted": 0,
+      "requiredAssignments": 0,
+      "requiredQuizzes": 0,
+      "minimumQuizScore": 70
+    },
+    "thumbnail": "/assets/gallery/image-03.jpg",
+    "published": true,
+    "modules": []
+  },
+  {
+    "id": "professional",
+    "title": "Professional Nail Class",
+    "slug": "professional-nail-class",
+    "shortDescription": "Extensions, shaping, fitting, and lasting results.",
+    "description": "Extensions, shaping, fitting, and lasting results.",
+    "overview": "Build professional extension, shaping, fitting, and long-wear service skills.",
+    "price": 3400,
+    "currency": "ZAR",
+    "duration": "8 weeks",
+    "level": "Professional",
+    "requirements": [],
+    "learningOutcomes": [],
+    "materials": [],
+    "faq": [],
+    "completionRequirements": {
+      "lessonsCompleted": 0,
+      "requiredAssignments": 0,
+      "requiredQuizzes": 0,
+      "minimumQuizScore": 70
+    },
+    "thumbnail": "/assets/gallery/image-04.jpg",
+    "published": true,
+    "modules": []
+  }
+]

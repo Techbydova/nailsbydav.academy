@@ -1,0 +1,1556 @@
+{
+  "courseId": "beginner",
+  "title": "Beginner Nail Class",
+  "modules": [
+    {
+      "id": "beginner-module-1",
+      "title": "Nail Technology Foundations",
+      "description": "Build a beginner foundation in preparation, product knowledge, technique, structure, safety, and finishing.",
+      "lessons": [
+        {
+          "id": "beginner-lesson-1",
+          "title": "Welcome to NailsbyDav Academy",
+          "duration": "5-8 min video",
+          "overview": "An introduction to the Beginner course, the lesson structure, practice expectations, equipment, practical challenges, and professional hygiene.",
+          "learningObjectives": [
+            "Understand the Beginner course scope",
+            "Know how to use lessons and practical challenges",
+            "Plan regular practice and equipment preparation"
+          ],
+          "content": "Welcome to NailsbyDav Academy. The Beginner course builds a proper foundation before students start working on nails. The course covers preparation, product knowledge, technique, structure, safety, and finishing. Work through the lessons in order and practise after each lesson. Practical challenges give you a way to apply what you have learned. The instructor introduction should also explain the equipment students will eventually need and how the later Intermediate and Advanced levels fit into the learning path. Video and studio photography are marked as coming soon until original NailsByDav material is supplied.",
+          "practicalWorkflow": "1. Review the lesson objective. 2. Watch the instructor introduction when available. 3. Note the equipment and practice expectations. 4. Complete the practical activity before moving on.",
+          "commonMistakes": [
+            "Skipping practice after a lesson",
+            "Treating the course as a finished-set gallery instead of a technique course",
+            "Ignoring hygiene and professional technique"
+          ],
+          "assignment": {
+            "title": "My learning plan",
+            "instructions": "Write down what you want to learn, how you will schedule practice after each lesson, and what equipment you still need to prepare.",
+            "expectedOutcome": "A realistic study and practice plan for the Beginner course."
+          },
+          "knowledgeCheck": null,
+          "safetyNote": "Follow professional hygiene practices throughout training and follow the instructions supplied with every product and tool.",
+          "keyTerms": [
+            "Preparation",
+            "Product knowledge",
+            "Technique",
+            "Structure",
+            "Safety",
+            "Finishing"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          },
+          "order": 1,
+          "published": true
+        },
+        {
+          "id": "beginner-lesson-2",
+          "title": "What Is Nail Technology?",
+          "duration": "Self-paced",
+          "overview": "Learn that nail technology is a complete professional skill set, not simply painting nails.",
+          "learningObjectives": [
+            "Name the six core skill areas",
+            "Distinguish DIY application from professional service",
+            "Explain the professional service sequence"
+          ],
+          "content": "Nail technology is not simply painting nails. It combines preparation, product knowledge, technique, structure, safety, and finishing. DIY application is commonly done at home without formal training. Professional nail services are performed with training, structure, and safety standards. A professional technician understands why each step is done instead of only copying what they see. The service sequence is preparation, product selection, application, structure, finishing, and aftercare.",
+          "practicalWorkflow": "1. Review the six core skill areas. 2. Put the professional service steps in order. 3. Compare a copied action with an action whose purpose you can explain.",
+          "commonMistakes": [
+            "Reducing nail technology to polish application",
+            "Copying a technique without understanding its purpose",
+            "Skipping preparation, structure, safety, or aftercare"
+          ],
+          "assignment": {
+            "title": "Professional service sequence",
+            "instructions": "Write the six core skill areas and arrange the professional service steps from preparation through aftercare. Add one sentence explaining why professional work requires understanding the reason behind each step.",
+            "expectedOutcome": "A correct service sequence and a clear distinction between DIY and professional practice."
+          },
+          "knowledgeCheck": {
+            "question": "Which sequence matches the professional nail service described in this lesson?",
+            "options": [
+              "Product selection, finishing, preparation, aftercare, application, structure",
+              "Preparation, product selection, application, structure, finishing, aftercare",
+              "Application, preparation, aftercare, product selection, structure, finishing",
+              "Preparation, application, finishing, product selection, aftercare, structure"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The PDF sequence is preparation, product selection, application, structure, finishing, then aftercare."
+          },
+          "safetyNote": "Professional practice includes safety standards and product knowledge; do not skip safety checks to imitate a result.",
+          "keyTerms": [
+            "Nail technology",
+            "Preparation",
+            "Product selection",
+            "Application",
+            "Structure",
+            "Aftercare"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          },
+          "order": 2,
+          "published": true
+        },
+        {
+          "id": "beginner-lesson-3",
+          "title": "Understanding the Natural Nail",
+          "duration": "Self-paced",
+          "overview": "Identify the seven anatomical structures named in the source lesson and learn why anatomy matters for safe professional application.",
+          "learningObjectives": [
+            "Identify the nail plate, nail bed, and free edge",
+            "Identify the cuticle, proximal fold, lateral folds, and hyponychium",
+            "Explain why anatomy knowledge supports safe application"
+          ],
+          "content": "The nail plate is the visible hard structure worked on during most nail services. The nail bed is the skin the plate sits on and grows over. The free edge is the portion extending beyond the fingertip. The cuticle is the thin layer of skin at the base of the nail plate. The proximal nail fold is the skin at the base of the nail that overlaps the plate. The lateral nail folds, or sidewalls, border each side of the plate. The hyponychium is the skin beneath the free edge that helps seal out bacteria. Learn these structures before practising so your work respects the natural nail and surrounding skin.",
+          "practicalWorkflow": "1. Use a real hand or a clear reference image. 2. Point to and name each of the seven structures. 3. Label a diagram. 4. Complete the anatomy quiz and review any missed terms.",
+          "commonMistakes": [
+            "Confusing the nail plate with the nail bed",
+            "Confusing the cuticle with the proximal nail fold",
+            "Forgetting that the free edge extends beyond the fingertip",
+            "Working without recognising the surrounding skin structures"
+          ],
+          "assignment": {
+            "title": "Label the natural nail",
+            "instructions": "Create or annotate a hand diagram with the nail plate, nail bed, free edge, cuticle, proximal nail fold, lateral nail folds/sidewalls, and hyponychium. Then answer all seven anatomy quiz questions.",
+            "expectedOutcome": "A labelled anatomy reference and correct responses to the source quiz."
+          },
+          "knowledgeCheck": {
+            "questions": [
+              {
+                "question": "What is the nail plate?",
+                "options": [
+                  "The skin underneath the nail",
+                  "The visible hard structure of the nail",
+                  "The skin surrounding the nail",
+                  "The fingertip"
+                ],
+                "correctAnswer": 1
+              },
+              {
+                "question": "What is the free edge?",
+                "options": [
+                  "The portion extending beyond the fingertip",
+                  "The cuticle",
+                  "The nail fold",
+                  "The nail bed"
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "What is the cuticle?",
+                "options": [
+                  "The hard nail plate",
+                  "The thin layer of skin at the base of the nail plate",
+                  "The nail bed",
+                  "The free edge"
+                ],
+                "correctAnswer": 1
+              },
+              {
+                "question": "What is the nail bed?",
+                "options": [
+                  "The skin the nail plate sits on and grows over",
+                  "The tip of the finger",
+                  "The side of the nail",
+                  "The cuticle"
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "What is the proximal nail fold?",
+                "options": [
+                  "The skin at the base of the nail that overlaps the plate",
+                  "The free edge",
+                  "The nail bed",
+                  "The sidewall"
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "What are the lateral nail folds (sidewalls)?",
+                "options": [
+                  "The skin bordering each side of the nail plate",
+                  "The nail bed",
+                  "The free edge",
+                  "The hyponychium"
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "What is the hyponychium?",
+                "options": [
+                  "The skin underneath the free edge that seals out bacteria",
+                  "The nail plate",
+                  "The cuticle",
+                  "The sidewall"
+                ],
+                "correctAnswer": 0
+              }
+            ],
+            "reflectionQuestion": "Why is understanding nail anatomy important for a nail technician?",
+            "reflectionAnswer": "It helps prevent damage and supports safe, professional application."
+          },
+          "safetyNote": "Do not work over damaged, irritated, or infected skin. Stop and seek appropriate professional guidance if a nail or surrounding skin appears unhealthy.",
+          "keyTerms": [
+            "Nail plate",
+            "Nail bed",
+            "Free edge",
+            "Cuticle",
+            "Proximal nail fold",
+            "Lateral nail folds",
+            "Hyponychium"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          },
+          "order": 3,
+          "published": true
+        },
+        {
+          "id": "beginner-lesson-4",
+          "title": "Nail Shapes",
+          "duration": "Self-paced",
+          "overview": "Recognise seven nail shapes and study the complete starting-nail to filing to finished-shape demonstration format.",
+          "learningObjectives": [
+            "Name the seven shapes introduced",
+            "Observe how filing changes the starting nail into the finished shape",
+            "Practise three shapes and compare photographs with NailsByDav references"
+          ],
+          "content": "The seven shapes introduced in the source are square, squoval, round, oval, almond, coffin, and stiletto. A useful demonstration shows the starting nail, the filing process, and the finished shape. Seeing the full process teaches technique rather than only showing a result. The PDF calls for before, during, and after images or video for each of the seven shapes; those original NailsByDav visuals are marked as coming soon until supplied.",
+          "practicalWorkflow": "1. Choose a starting nail. 2. Observe the filing process for one shape. 3. Compare the finished outline with the reference. 4. Repeat for two more shapes. 5. Photograph the results and compare them with NailsByDav reference images.",
+          "commonMistakes": [
+            "Studying only finished nails without observing the filing process",
+            "Practising only one shape when the challenge asks for three",
+            "Skipping the photo comparison against reference images"
+          ],
+          "assignment": {
+            "title": "Shape challenge",
+            "instructions": "Practise creating three different nail shapes, photograph each finished result, and compare your work against NailsByDav reference images. The source video should show the starting nail, filing, and finished shape for each demonstrated shape.",
+            "expectedOutcome": "Three photographed shape studies with a comparison against the supplied NailsByDav references."
+          },
+          "knowledgeCheck": null,
+          "safetyNote": "Use controlled filing and follow the product and tool instructions. Avoid over-filing the natural nail.",
+          "keyTerms": [
+            "Square",
+            "Squoval",
+            "Round",
+            "Oval",
+            "Almond",
+            "Coffin",
+            "Stiletto"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          },
+          "order": 4,
+          "published": true
+        },
+        {
+          "id": "beginner-lesson-5",
+          "title": "Introduction to Nail Tools",
+          "duration": "Self-paced",
+          "overview": "Identify the tools introduced in the PDF and use the same four-part reference template for each tool.",
+          "learningObjectives": [
+            "Identify the nail tools listed in the lesson",
+            "Explain each tool purpose",
+            "Use the four-part tool reference template"
+          ],
+          "content": "The source lesson introduces nail files, a buffer, cuticle pusher, cuticle nippers or scissors where appropriate, nail brush, lint-free wipes, UV/LED lamp, gel brushes, dust brush, tips or forms, and an e-file if included in the Beginner curriculum. For every tool, use the same four prompts: What is it? What does it do? How do we use it? What mistake should a beginner avoid? Physical tool demonstrations and clear individual tool photographs are marked as coming soon until original NailsByDav material is supplied.",
+          "practicalWorkflow": "1. Lay out the tools available in your kit. 2. Identify each item. 3. Complete the four reference prompts for each item. 4. Check that the tool is used only for its intended purpose and according to its instructions.",
+          "commonMistakes": [
+            "Naming a tool without explaining its purpose",
+            "Skipping how-to-use or beginner-mistake notes",
+            "Treating the e-file as required when it may not be included in the Beginner curriculum"
+          ],
+          "assignment": {
+            "title": "Know your tools",
+            "instructions": "Identify 10 nail tools and explain the purpose of each. For every tool, complete: What is it? What does it do? How do we use it? What mistake should a beginner avoid? This is also the Module 1 final challenge; then complete the Nail Anatomy Quiz and Nail Shapes Quiz.",
+            "expectedOutcome": "A ten-tool reference set using the source template, plus completion of both named quizzes."
+          },
+          "knowledgeCheck": null,
+          "safetyNote": "Use tools only for their intended purpose. Follow manufacturer guidance and appropriate hygiene procedures for cleaning and storage.",
+          "keyTerms": [
+            "Nail file",
+            "Buffer",
+            "Cuticle pusher",
+            "Cuticle nippers",
+            "Nail brush",
+            "Lint-free wipe",
+            "UV/LED lamp",
+            "Gel brush",
+            "Dust brush",
+            "Tips",
+            "Forms",
+            "E-file"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          },
+          "order": 5,
+          "published": true
+        }
+      ],
+      "completionChallenge": "Identify 10 nail tools and explain each purpose, then complete the Nail Anatomy Quiz and Nail Shapes Quiz."
+    },
+    {
+      "id": "beginner-module-2",
+      "title": "Cuticle Care & Shape",
+      "description": "Develop a clear routine for working around the cuticle area and creating a balanced, healthy nail shape.",
+      "lessons": [
+        {
+          "id": "beginner-lesson-6",
+          "title": "Creating Balanced Nail Shapes",
+          "duration": "30 min",
+          "overview": "Create a shape that suits the natural nail and keeps the final look balanced and clean.",
+          "learningObjectives": [
+            "Shape the nail evenly",
+            "Maintain balance along the free edge",
+            "Choose a suitable silhouette"
+          ],
+          "content": "A balanced shape is more than cosmetic. It supports proportion, finish quality and the client's overall comfort with the final look.",
+          "practicalWorkflow": "1. Check the natural nail line. 2. Shape with controlled movements. 3. Review symmetry before moving on.",
+          "commonMistakes": [
+            "Symmetry imbalance",
+            "Over-shortening",
+            "Forcing a shape on a natural nail"
+          ],
+          "assignment": {
+            "title": "Shape balance check",
+            "instructions": "Compare two or three natural nail shapes and note which silhouette suits each nail length or curve.",
+            "expectedOutcome": "A practical understanding of balanced shaping."
+          },
+          "knowledgeCheck": {
+            "question": "Why is nail shape balance important?",
+            "options": [
+              "It speeds curing",
+              "It makes the final silhouette more polished and proportioned",
+              "It removes the need for prep",
+              "It changes product brand"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Balanced shaping supports a more professional and comfortable finish."
+          },
+          "safetyNote": "Do not overfile or force a shape that does not suit the natural nail. Stop if the client experiences discomfort.",
+          "keyTerms": [
+            "Balance",
+            "Shape silhouette",
+            "Free edge",
+            "Symmetry"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-7",
+          "title": "Removing Dust and Refining the Edge",
+          "duration": "20 min",
+          "overview": "Complete the final refinement stage so the nail surface feels even, clean and ready for product application.",
+          "learningObjectives": [
+            "Remove dust gently",
+            "Check the edge and free margin",
+            "Prepare a clean foundation"
+          ],
+          "content": "The final refinement stage is where details matter. A careful clean-up improves finish quality and helps prevent product issues later in the service.",
+          "practicalWorkflow": "1. Dust off the nail surface. 2. Check the edge for roughness. 3. Clean and reset before product.",
+          "commonMistakes": [
+            "Leaving dust on the surface",
+            "Rough edge finish",
+            "Forgetting the final wipe-down"
+          ],
+          "assignment": {
+            "title": "Edge refinement routine",
+            "instructions": "Write the sequence you use to refine the edge after shaping and before product application.",
+            "expectedOutcome": "A repeatable handover routine for a clean surface."
+          },
+          "knowledgeCheck": {
+            "question": "What is the purpose of the final refinement step?",
+            "options": [
+              "To shorten the service time",
+              "To clean the surface and prepare a smoother finish",
+              "To dry the product",
+              "To choose the final design"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A cleaner edge and dust-free surface support a more refined final result."
+          },
+          "safetyNote": "Use a clean cloth or brush and avoid excessive friction. If the nail or surrounding skin is irritated, stop and assess the client appropriately.",
+          "keyTerms": [
+            "Dust removal",
+            "Edge refinement",
+            "Surface clean-up",
+            "Final prep"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-8",
+          "title": "Common Preparation Mistakes",
+          "duration": "25 min",
+          "overview": "Recognise the most common beginner preparation errors and correct them before they affect the finished result.",
+          "learningObjectives": [
+            "Recognise prep mistakes",
+            "Correct poor technique",
+            "Build stronger observation habits"
+          ],
+          "content": "Mistakes are often the result of rushing, skipping checks or overworking the surface. Early recognition makes training more productive and more practical.",
+          "practicalWorkflow": "1. Review the prep steps. 2. Check for uneven pressure or rough edges. 3. Correct before product application begins.",
+          "commonMistakes": [
+            "Over-filing",
+            "Poor dust removal",
+            "Skipping a final check"
+          ],
+          "assignment": {
+            "title": "Mistake correction log",
+            "instructions": "List three common prep errors, explain how they happen and state how you would fix them in future practice.",
+            "expectedOutcome": "Improved self-review and correction habits."
+          },
+          "knowledgeCheck": {
+            "question": "Which habit helps prevent prep mistakes?",
+            "options": [
+              "Rushing the service",
+              "Checking each step before moving on",
+              "Skipping the final cleanse",
+              "Applying product before reviewing shape"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Checking each step supports better technique and fewer avoidable errors."
+          },
+          "safetyNote": "If a nail feels damaged or sensitive, stop and review the condition before continuing. Do not provide medical treatment or diagnose an issue.",
+          "keyTerms": [
+            "Observation",
+            "Technique check",
+            "Correction",
+            "Service flow"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-9",
+          "title": "Understanding Product Placement",
+          "duration": "25 min",
+          "overview": "Learn how controlled placement affects balance, finish quality and the overall feel of a beginner set.",
+          "learningObjectives": [
+            "Place product evenly",
+            "Maintain nail balance",
+            "Build a neat beginner finish"
+          ],
+          "content": "Product placement is about proportion and control. Even distribution near the nail plate and free edge supports a cleaner, more balanced shape.",
+          "practicalWorkflow": "1. Assess the product amount as you work. 2. Place the product with even flow. 3. Review the finish for balance before sealing.",
+          "commonMistakes": [
+            "Too much product at the apex",
+            "Heavy product near the skin",
+            "Uneven placement along the edge"
+          ],
+          "assignment": {
+            "title": "Placement review",
+            "instructions": "Observe the effect of even product placement on shape and finish, then note what you would change in a second attempt.",
+            "expectedOutcome": "A practical awareness of balanced placement."
+          },
+          "knowledgeCheck": {
+            "question": "Why is measured product placement important?",
+            "options": [
+              "It increases curing time",
+              "It helps keep the finish balanced and clean",
+              "It removes the need for shape work",
+              "It makes the order of steps irrelevant"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Balanced placement creates a more polished, professional result."
+          },
+          "safetyNote": "Use only the amount needed for the intended system and follow the product instructions. Do not place product over broken skin or inflamed areas.",
+          "keyTerms": [
+            "Product placement",
+            "Balance",
+            "Apex",
+            "Finish"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-10",
+          "title": "Setting Up a Beginner Service Flow",
+          "duration": "30 min",
+          "overview": "Create a simple beginner service sequence that keeps your work organised, efficient and consistent.",
+          "learningObjectives": [
+            "Follow a clear service order",
+            "Reduce wasted movement",
+            "Build repeatable routine"
+          ],
+          "content": "A service flow helps the student maintain control. A repeatable sequence reduces stress, supports confidence and makes the lesson easier to practice.",
+          "practicalWorkflow": "1. Prepare the station. 2. Review the client needs. 3. Work step by step. 4. Finish with a final check.",
+          "commonMistakes": [
+            "Skipping early checks",
+            "Repetition without review",
+            "Rushing the final stage"
+          ],
+          "assignment": {
+            "title": "Service flow map",
+            "instructions": "Create a flow map that starts with cleaning and ends with the final check before the client leaves the service.",
+            "expectedOutcome": "A simple, repeatable service structure."
+          },
+          "knowledgeCheck": {
+            "question": "What does a clear service flow help with?",
+            "options": [
+              "It removes the need for cleanup",
+              "It improves control and consistency",
+              "It increases product use",
+              "It replaces technical review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A defined order supports a smoother, more professional service."
+          },
+          "safetyNote": "Always keep the service flow aligned with product instructions and current salon hygiene procedures. Stop if the client's skin appears irritated or compromised.",
+          "keyTerms": [
+            "Service flow",
+            "Sequence",
+            "Consistency",
+            "Final check"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beginner-module-3",
+      "title": "Application & Finish",
+      "description": "Practice consistent application and tidy finishing to build a polished beginner result.",
+      "lessons": [
+        {
+          "id": "beginner-lesson-11",
+          "title": "Product Control for a Clean Finish",
+          "duration": "25 min",
+          "overview": "Learn how the amount, placement and pressure of product affect the final beginner set.",
+          "learningObjectives": [
+            "Use limited product carefully",
+            "Maintain a clean finish",
+            "Reduce overbuilding"
+          ],
+          "content": "A clean beginner finish depends on measured application and a consistent rhythm. Too much product can compromise balance and comfort.",
+          "practicalWorkflow": "1. Check the amount used. 2. Place with even movement. 3. Review the finish before curing or sealing.",
+          "commonMistakes": [
+            "Overbuilding on the nail plate",
+            "Inconsistent pressure",
+            "Skipping a quick balance review"
+          ],
+          "assignment": {
+            "title": "Clean finish checklist",
+            "instructions": "Draft a short checklist that reminds you to review balance, placement and finish before moving on.",
+            "expectedOutcome": "A practical clean-finish routine."
+          },
+          "knowledgeCheck": {
+            "question": "What is the main benefit of controlled product use?",
+            "options": [
+              "Faster time on each nail",
+              "Cleaner placement and a more balanced result",
+              "Lower product cost",
+              "A shorter service flow"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Measured product use supports a better finish and better comfort."
+          },
+          "safetyNote": "Work with product amounts appropriate to the system and the nail condition. Never apply on broken, bleeding or inflamed skin.",
+          "keyTerms": [
+            "Product amount",
+            "Clean finish",
+            "Balance",
+            "Placement"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-12",
+          "title": "Finishing and Seal Quality",
+          "duration": "30 min",
+          "overview": "Assess the final finish for balance, shine and tidy edges so the result feels polished and complete.",
+          "learningObjectives": [
+            "Review final seal quality",
+            "Check finish consistency",
+            "Improve edge neatness"
+          ],
+          "content": "A strong finish is more than appearance. It tells the client that the service was controlled, clean and complete.",
+          "practicalWorkflow": "1. Check the top layer. 2. Review the edge finish. 3. Confirm the seal and overall balance.",
+          "commonMistakes": [
+            "Skipping a final review",
+            "Uneven sealing",
+            "Leaving rough edges"
+          ],
+          "assignment": {
+            "title": "Finish quality review",
+            "instructions": "Write a short finish review describing what looks balanced, what feels uneven and what you would adjust next time.",
+            "expectedOutcome": "A more informed final check routine."
+          },
+          "knowledgeCheck": {
+            "question": "What should the final finish review include?",
+            "options": [
+              "Only colour choice",
+              "Balance, seal quality and clean edges",
+              "Only speed of service",
+              "Only the cost of product"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Quality review looks at finish, balance and smoothness as part of the service."
+          },
+          "safetyNote": "Use product instructions and salon rules. Do not perform treatment on compromised skin or suspected infection.",
+          "keyTerms": [
+            "Seal quality",
+            "Finish",
+            "Clean edge",
+            "Balance"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-13",
+          "title": "Assessing Client Comfort",
+          "duration": "20 min",
+          "overview": "Recognise how a comfortable service begins with gentle pressure, balanced prep and careful finishing.",
+          "learningObjectives": [
+            "Recognise discomfort",
+            "Adjust pressure when needed",
+            "Build client trust"
+          ],
+          "content": "Comfort is part of professionalism. Clients should feel looked after, not pressured, and students should be able to notice when technique is too intense or rushed.",
+          "practicalWorkflow": "1. Observe comfort cues. 2. Adjust pressure and movement. 3. Review the finish with the client in mind.",
+          "commonMistakes": [
+            "Ignoring discomfort cues",
+            "Working too hard on a sensitive area",
+            "Forgetting the final check"
+          ],
+          "assignment": {
+            "title": "Comfort check reflection",
+            "instructions": "Describe three signs that a client may be uncomfortable and how you would modify your technique.",
+            "expectedOutcome": "A better awareness of client comfort and control."
+          },
+          "knowledgeCheck": {
+            "question": "Why does comfort matter in a nail service?",
+            "options": [
+              "It only affects the booking schedule",
+              "It supports a professional and respectful service",
+              "It replaces technical checks",
+              "It reduces product selection"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Comfort supports confidence, professionalism and more consistent results."
+          },
+          "safetyNote": "If the client reports pain or the skin appears inflamed or compromised, stop the service and refer appropriately. Do not treat or diagnose.",
+          "keyTerms": [
+            "Client comfort",
+            "Gentle pressure",
+            "Professional care",
+            "Service quality"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-14",
+          "title": "Troubleshooting a Uneven Finish",
+          "duration": "25 min",
+          "overview": "Learn how to spot uneven finishes early and correct them without restarting the full service.",
+          "learningObjectives": [
+            "Identify finish problems",
+            "Correct common issues",
+            "Build corrective confidence"
+          ],
+          "content": "A minor finish problem can usually be corrected early if the student is trained to spot it before the final seal. Early observation saves time and reduces stress.",
+          "practicalWorkflow": "1. Review cure, shape and seal. 2. Identify the uneven area. 3. Adjust minimally and check again.",
+          "commonMistakes": [
+            "Over-correcting",
+            "Ignoring early signs",
+            "Rushing the second-pass adjustment"
+          ],
+          "assignment": {
+            "title": "Correction scenario",
+            "instructions": "Describe a small issue such as uneven placement or edge roughness and explain how you would correct it without damaging the client experience.",
+            "expectedOutcome": "A practical troubleshooting mindset."
+          },
+          "knowledgeCheck": {
+            "question": "What is the best response to a small finish issue?",
+            "options": [
+              "Ignore it and continue",
+              "Spot it early and adjust with a careful second check",
+              "Apply more product everywhere",
+              "Skip the final review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Small issues are easier to correct before they become larger service problems."
+          },
+          "safetyNote": "Follow product instructions and avoid adding extra product over damaged skin. Stop if there are signs of irritation or infection.",
+          "keyTerms": [
+            "Troubleshooting",
+            "Final review",
+            "Correction",
+            "Finish assessment"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-15",
+          "title": "Beginning a Practical Assessment",
+          "duration": "35 min",
+          "overview": "Create a simple practical assessment routine so beginners can measure consistency, cleanliness and finish quality.",
+          "learningObjectives": [
+            "Review practice work",
+            "Identify clear progress areas",
+            "Create a more professional assessment habit"
+          ],
+          "content": "Practical assessment is a planning tool, not a punishment. It helps students notice what is working and what needs more repetition before moving to the next stage.",
+          "practicalWorkflow": "1. Set a baseline. 2. Review shape and finish. 3. Record one improvement and one next step.",
+          "commonMistakes": [
+            "Only judging the final look",
+            "Ignoring process details",
+            "Not setting a next-action step"
+          ],
+          "assignment": {
+            "title": "Practical self-assessment",
+            "instructions": "Complete a short self-assessment after a beginner practice set and list one strength and one skill to repeat next session.",
+            "expectedOutcome": "A clear improvement plan based on practical review."
+          },
+          "knowledgeCheck": {
+            "question": "Why are practical self-assessments useful?",
+            "options": [
+              "They replace product checks",
+              "They help notice strengths and next steps",
+              "They shorten the learning objectives",
+              "They remove the need for practice"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Self-assessment supports growth, reflection and more professional technique progression."
+          },
+          "safetyNote": "Use the assessment to support learning and not to make treatment claims. Follow product instructions and refer client concerns appropriately.",
+          "keyTerms": [
+            "Assessment",
+            "Reflection",
+            "Progress",
+            "Review"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beginner-module-4",
+      "title": "Practice Workflow",
+      "description": "Follow a repeatable practice routine so the beginner course builds confidence and consistency.",
+      "lessons": [
+        {
+          "id": "beginner-lesson-16",
+          "title": "Planning a Practice Session",
+          "duration": "20 min",
+          "overview": "Build a realistic practice routine that focuses on one or two key technical improvements at a time.",
+          "learningObjectives": [
+            "Structure a useful practice session",
+            "Choose one improvement focus",
+            "Stay repeatable and realistic"
+          ],
+          "content": "A practice session works best when it has focus. Students improve faster when they choose one or two technical points and repeat them with intent.",
+          "practicalWorkflow": "1. Choose a focus point. 2. Practise the sequence. 3. Review the outcome and adjust one detail.",
+          "commonMistakes": [
+            "Trying too much at once",
+            "Skipping self-review",
+            "Practising without a point of focus"
+          ],
+          "assignment": {
+            "title": "Practice plan",
+            "instructions": "Create a simple practice plan with one focus technique, one routine and one review point.",
+            "expectedOutcome": "A realistic session plan for repeated improvement."
+          },
+          "knowledgeCheck": {
+            "question": "What makes a practice session more effective?",
+            "options": [
+              "Random repetition",
+              "A clear focus and review step",
+              "Skipping the recap",
+              "Trying many techniques at once"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Focused practice is more effective than rushed repetition without review."
+          },
+          "safetyNote": "Practice should remain clean and controlled. Follow all product instructions and avoid working on damaged or compromised skin.",
+          "keyTerms": [
+            "Practice session",
+            "Focus",
+            "Review",
+            "Technique"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-17",
+          "title": "Repetition Without Rushing",
+          "duration": "25 min",
+          "overview": "Learn how repetition supports confidence without sacrificing control or safety.",
+          "learningObjectives": [
+            "Repeat steadily",
+            "Avoid rushing",
+            "Improve control over time"
+          ],
+          "content": "Repetition helps skill build, but only when it is deliberate. A slower, more intentional practice pattern creates stronger habits than rushed repetition.",
+          "practicalWorkflow": "1. Repeat the same sequence. 2. Slow down where needed. 3. Review the result before moving on.",
+          "commonMistakes": [
+            "Rushing the repetition",
+            "Forgetting the review step",
+            "Only repeating the easiest part"
+          ],
+          "assignment": {
+            "title": "Repetition reflection",
+            "instructions": "Reflect on one technique you repeated and note where you improved, where you slowed down and what you will focus on next.",
+            "expectedOutcome": "A realistic view of skill repetition and control."
+          },
+          "knowledgeCheck": {
+            "question": "Why is slow repetition helpful?",
+            "options": [
+              "It replaces review",
+              "It builds control and confidence without rushing",
+              "It shortens the practice session",
+              "It removes the need for a focus point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Deliberate repetition makes technique more stable and consistent."
+          },
+          "safetyNote": "Do not rush or force technique on irritated or damaged skin. Follow salon rules and product guidance.",
+          "keyTerms": [
+            "Repetition",
+            "Control",
+            "Confidence",
+            "Feedback"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-18",
+          "title": "Reviewing a Beginner Set",
+          "duration": "30 min",
+          "overview": "Use a clear check process to review the full beginner set and make small corrections before finishing.",
+          "learningObjectives": [
+            "Review complete service flow",
+            "Check consistency",
+            "Apply final corrections carefully"
+          ],
+          "content": "Review is part of the technical process. A quick check of the whole set helps students catch uneven edges, rough finish issues or missed hygiene steps before leaving the service.",
+          "practicalWorkflow": "1. Check shape. 2. Check finish. 3. Check cleanliness and comfort. 4. Make one final correction if needed.",
+          "commonMistakes": [
+            "Checking only the front view",
+            "Ignoring the side view",
+            "Forgetting final comfort and cleanliness"
+          ],
+          "assignment": {
+            "title": "Set review checklist",
+            "instructions": "Create a final review checklist for a beginner set: shape, cleanliness, finish, comfort and edge quality.",
+            "expectedOutcome": "A reliable final quality check for practice work."
+          },
+          "knowledgeCheck": {
+            "question": "Why is a final review important?",
+            "options": [
+              "It replaces product instructions",
+              "It allows quick corrections before finishing",
+              "It reduces the number of lessons",
+              "It makes the client choose a colour"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A final review catches small issues before they become larger problems."
+          },
+          "safetyNote": "If anything looks inflamed, damaged or uncomfortable, stop and follow appropriate referral guidance. Never diagnose or treat conditions.",
+          "keyTerms": [
+            "Review",
+            "Quality check",
+            "Finishing",
+            "Service flow"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-19",
+          "title": "Progress Tracking for Beginners",
+          "duration": "20 min",
+          "overview": "Track what is improving, what still needs repetition and what is ready to refine in the next practice session.",
+          "learningObjectives": [
+            "Monitor progress honestly",
+            "Choose next improvements",
+            "Build realistic learning habits"
+          ],
+          "content": "Progress tracking helps students recognise skill growth without comparing themselves to others. It keeps learning realistic and practical.",
+          "practicalWorkflow": "1. Review one strength. 2. Note one improvement. 3. Repeat the skill and keep the focus clear.",
+          "commonMistakes": [
+            "Only tracking the end result",
+            "Ignoring process detail",
+            "Comparing to other students instead of personal growth"
+          ],
+          "assignment": {
+            "title": "Progress tracker",
+            "instructions": "Make a short progress tracker with one strength, one repeating challenge and one technique to work on next.",
+            "expectedOutcome": "A practical framework for steady improvement."
+          },
+          "knowledgeCheck": {
+            "question": "Why is progress tracking valuable?",
+            "options": [
+              "It replaces product instruction",
+              "It helps you see growth and set realistic next steps",
+              "It removes the need for critique",
+              "It makes every service identical"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Progress tracking supports honest evaluation and focused practice."
+          },
+          "safetyNote": "Use progress tracking to build learning, not to diagnose client conditions or make treatment claims. Follow all public-health and salon rules.",
+          "keyTerms": [
+            "Progress",
+            "Tracking",
+            "Practice review",
+            "Improvement"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-20",
+          "title": "Building Confidence Through Structure",
+          "duration": "25 min",
+          "overview": "Use structure, repetition and review to grow confidence without losing technique quality or safety awareness.",
+          "learningObjectives": [
+            "Build calm confidence",
+            "Use structure to support practice",
+            "Stay grounded in technique"
+          ],
+          "content": "Confidence grows when students understand the process. A clear routine reduces uncertainty and helps technique feel more deliberate and professional.",
+          "practicalWorkflow": "1. Set a service routine. 2. Review the key steps. 3. Practise with a clear focus and finish with a check.",
+          "commonMistakes": [
+            "Rushing to finish",
+            "Forgetting the key steps",
+            "Using confidence as a reason to skip review"
+          ],
+          "assignment": {
+            "title": "Confidence checklist",
+            "instructions": "Write a short checklist of the routines that make you feel more controlled and ready during a beginner service.",
+            "expectedOutcome": "A calm, structure-based confidence plan for practice."
+          },
+          "knowledgeCheck": {
+            "question": "How does structure support confidence?",
+            "options": [
+              "It removes the need for safety checks",
+              "It makes practice more deliberate and predictable",
+              "It changes product instructions",
+              "It reduces all service detail"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Clear structure creates confidence because students know what to check, repeat and review."
+          },
+          "safetyNote": "Confidence should never replace careful observation, salon hygiene, or referral awareness. Follow all public-health rules and product instructions.",
+          "keyTerms": [
+            "Confidence",
+            "Structure",
+            "Routine",
+            "Professional control"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beginner-module-5",
+      "title": "Completion & Readiness",
+      "description": "Review the full beginner foundation and prepare for the next step with confidence and clarity.",
+      "lessons": [
+        {
+          "id": "beginner-lesson-21",
+          "title": "Course Wrap-Up and Reflection",
+          "duration": "20 min",
+          "overview": "Reflect on the beginner foundation and identify the habits that support stronger salon readiness.",
+          "learningObjectives": [
+            "Review the full course structure",
+            "Identify key progress points",
+            "Build a stronger next-step plan"
+          ],
+          "content": "Every beginner course ends with review, but the goal is not to finish just once. It is to recognise what has been learned and what should be repeated.",
+          "practicalWorkflow": "1. List key skills learned. 2. Review one area of improvement. 3. Choose a next focus for future work.",
+          "commonMistakes": [
+            "Only looking at one task",
+            "Forgetting the big-picture progress",
+            "Closing without a next action"
+          ],
+          "assignment": {
+            "title": "Course recap",
+            "instructions": "Create a short recap covering the top three skills learned and the one skill you still want to develop.",
+            "expectedOutcome": "A clear reflection on progress and readiness."
+          },
+          "knowledgeCheck": {
+            "question": "Why is reflection important at the end of a course?",
+            "options": [
+              "It becomes the final treatment plan",
+              "It highlights progress and next steps",
+              "It removes the need for further practice",
+              "It replaces product instructions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Reflection helps students see what they learned and what should be repeated next."
+          },
+          "safetyNote": "Course reflection should support learning and safe practice. Do not make treatment claims or diagnose conditions.",
+          "keyTerms": [
+            "Reflection",
+            "Readiness",
+            "Next step",
+            "Progress"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-22",
+          "title": "Hygiene and Service Readiness",
+          "duration": "25 min",
+          "overview": "Confirm the full hygiene and service routine before moving into more advanced treatment or technique work.",
+          "learningObjectives": [
+            "Check service readiness",
+            "Review hygiene standards",
+            "Build confidence in setup"
+          ],
+          "content": "Readiness means the student can organise the station, maintain control and move through the service without skipping key checks.",
+          "practicalWorkflow": "1. Reset the station. 2. Review cleanliness. 3. Confirm service flow before you start.",
+          "commonMistakes": [
+            "Skipping the setup review",
+            "Assuming the station is ready",
+            "Rushing ahead before the final check"
+          ],
+          "assignment": {
+            "title": "Readiness checklist",
+            "instructions": "Draft a readiness checklist that covers cleanliness, tools, product placement and final review before the service begins.",
+            "expectedOutcome": "A reliable beginning guide for future work."
+          },
+          "knowledgeCheck": {
+            "question": "What does service readiness include?",
+            "options": [
+              "Only the final polish",
+              "A clear setup and review routine",
+              "Only the price of the service",
+              "The student's personal preference"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A ready service starts with a clean, organised and controlled approach."
+          },
+          "safetyNote": "Use current salon hygiene policies and product instructions at all times. Avoid work over damaged skin and refer concerns appropriately.",
+          "keyTerms": [
+            "Readiness",
+            "Setup",
+            "Hygiene",
+            "Workflow"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-23",
+          "title": "Safety in the Training Studio",
+          "duration": "20 min",
+          "overview": "Keep a safety-first approach in the studio so the learner grows with professionalism and good habits.",
+          "learningObjectives": [
+            "Review studio safety",
+            "Stay aware of condition changes",
+            "Reinforce referral awareness"
+          ],
+          "content": "A safe learning environment is not only about tools but also about observation, judgement and professional behaviour. Students are expected to notice when a client or nail condition needs attention beyond the service scope.",
+          "practicalWorkflow": "1. Check the workspace. 2. Review client comfort. 3. Stop if any skin or service concerns are present.",
+          "commonMistakes": [
+            "Continuing when the skin is compromised",
+            "Ignoring observation cues",
+            "Treating the service as a set routine without awareness"
+          ],
+          "assignment": {
+            "title": "Safety reflection",
+            "instructions": "List three studio safety habits and explain how they support professionalism and client trust.",
+            "expectedOutcome": "A short safety review built around observation and action."
+          },
+          "knowledgeCheck": {
+            "question": "What is the role of observation in studio safety?",
+            "options": [
+              "It replaces product instructions",
+              "It helps students notice discomfort or concerns early",
+              "It shortens the service",
+              "It removes the need for a checklist"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Observation helps identify when a safer or more appropriate response is needed."
+          },
+          "safetyNote": "Never treat open wounds, bleeding, or suspected infection. Follow local public-health rules and refer appropriately when needed.",
+          "keyTerms": [
+            "Safety",
+            "Observation",
+            "Referral",
+            "Professional conduct"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-24",
+          "title": "Identifying Your Next Practice Goal",
+          "duration": "20 min",
+          "overview": "Choose the next skill or habit to refine before moving into a more advanced form of learning.",
+          "learningObjectives": [
+            "Choose a next goal",
+            "Create a realistic improvement plan",
+            "Stay honest about difficulty"
+          ],
+          "content": "The next practice goal should be manageable, clear and directly connected to a skill that needs repetition. Small, relevant goals create better progress than broad promises.",
+          "practicalWorkflow": "1. Choose one skill. 2. Plan repetition. 3. Review the outcome and next focus.",
+          "commonMistakes": [
+            "Choosing too much at once",
+            "Setting vague goals",
+            "Not reviewing actual progress"
+          ],
+          "assignment": {
+            "title": "Next goal plan",
+            "instructions": "Select one technique from the beginner course that you want to strengthen and explain how you will practise it next.",
+            "expectedOutcome": "A focused improvement plan for the following practice cycle."
+          },
+          "knowledgeCheck": {
+            "question": "What makes a next practice goal useful?",
+            "options": [
+              "It is broad and ambitious",
+              "It is clear, realistic and relevant",
+              "It avoids reflection",
+              "It is chosen randomly"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Strong next goals are clear, realistic and connected to what needs practice."
+          },
+          "safetyNote": "Use the goal to support safe, structured progress. Do not make treatment claims or diagnose client conditions.",
+          "keyTerms": [
+            "Goal",
+            "Practice plan",
+            "Growth",
+            "Focus"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "beginner-lesson-25",
+          "title": "Beginner Certificate Readiness",
+          "duration": "30 min",
+          "overview": "Prepare for a future assessment by reviewing key technical foundations, professional habits and safety awareness.",
+          "learningObjectives": [
+            "Review course foundations",
+            "Confirm readiness for the next stage",
+            "Practice confidence with structure"
+          ],
+          "content": "Readiness is not one moment; it is the result of repeated practice, safe habits and honest review. This closing lesson helps students identify what they are ready to continue with and what still needs more repetition.",
+          "practicalWorkflow": "1. Review your strongest skills. 2. Note your next focus area. 3. Confirm your safety habits and final routine.",
+          "commonMistakes": [
+            "Believing confidence means no review",
+            "Skipping the safety check",
+            "Forgetting to note the next improvement"
+          ],
+          "assignment": {
+            "title": "Readiness summary",
+            "instructions": "Write a short summary of your preparation, your safety habits and the next skill you want to strengthen before moving on.",
+            "expectedOutcome": "A clear readiness summary for continued growth."
+          },
+          "knowledgeCheck": {
+            "question": "What does readiness in a beginner course mean?",
+            "options": [
+              "Only having completed the final lesson",
+              "Having a safe, repeatable routine and clear next step",
+              "Ignoring technical mistakes",
+              "Moving ahead without review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Readiness combines technique, hygiene, review and realistic next-step planning."
+          },
+          "safetyNote": "Good readiness is grounded in professionalism, product instructions, salon health policies and refusal to work on compromised skin. Do not diagnose or treat medical concerns.",
+          "keyTerms": [
+            "Readiness",
+            "Professional habits",
+            "Next-step planning",
+            "Safety awareness"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    }
+  ]
+}

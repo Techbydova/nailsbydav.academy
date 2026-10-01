@@ -1,0 +1,95 @@
+[
+  {
+    "id": "student_01433dbe-3ab7-40a0-9492-d9739d6ea849",
+    "name": "Oluwabukunmi Adetola Tafa",
+    "email": "tafaisaacprince@gmail.com",
+    "phone": "091328574",
+    "selectedCourse": "beginner",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "c5a4a1ca5b71dc0897531f9c72916768",
+      "hash": "6973d00995addc2d1074f4415d9a46b253f035d093f6968102c42da73e808f60bb30b8f46fd27d8b25ba237b334fb8717239bda9763c7515abfabbb8eb29e422"
+    },
+    "progress": {},
+    "createdAt": "2026-09-24T14:03:39.657Z",
+    "lastLoginAt": "2026-09-24T14:03:39.657Z"
+  },
+  {
+    "id": "student_682e586a-c681-4e9b-ae1b-ec5b1ba15ab7",
+    "name": "Tafa Adetola",
+    "email": "alaska@gmail.com",
+    "phone": "09159898405",
+    "selectedCourse": "beginner",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "48c5ab00dfd9e1be1805f179a520c953",
+      "hash": "13ce190a7a24c2150f472deeb12a1c2e2cb23d5bd405e731cfb2b0ec4d6b5d8b7cf47a869339b4ca69ca37a3eff83710fc96535b96d3d2b56fb7b6e7ee372193"
+    },
+    "progress": {},
+    "createdAt": "2026-09-28T15:51:00.422Z",
+    "lastLoginAt": "2026-09-28T15:51:00.422Z"
+  },
+  {
+    "id": "student_b7ecff9e-2719-494f-a3a7-67ba69fecf48",
+    "name": "Oluwabukunmi Adetola Ayodeji Isaac",
+    "email": "isaacprince@gmail.com",
+    "phone": "09132854736",
+    "selectedCourse": "beginner",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "cd5727ce2ad7d619171b54d8838ec26f",
+      "hash": "058846059979952c60e775a01b6531349311c6e9e3482ec0e81c3a4c1c6d92deaf42c33a07904f0647b380f1aa68e240c5f7b789d3aaf0255f2932c72fbbf432"
+    },
+    "progress": {},
+    "createdAt": "2026-09-28T15:53:09.779Z",
+    "lastLoginAt": "2026-09-28T15:53:09.779Z"
+  },
+  {
+    "id": "student_bd90d314-3271-49e9-b385-8327edae129c",
+    "name": "adetoa juile",
+    "email": "adetolahs@gmail.com",
+    "phone": "093736383",
+    "selectedCourse": "beginner",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "42bf55f7a58b2e98102b7b70a9a1c416",
+      "hash": "526dce2598ae1b18f7479423f3c4b9a642116e210a0920425ca7e6e8481c0bda109e955e431d0f9c4d59e7f7f014632d8964acc3b3e2fa3db9867cbf50ba64cf"
+    },
+    "progress": {},
+    "createdAt": "2026-09-28T15:58:28.496Z",
+    "lastLoginAt": "2026-09-28T15:58:28.496Z",
+    "paystackReference": "nd_student_bd90d314-3271-49e9-b385-8327edae129c_1790611108512"
+  },
+  {
+    "id": "student_b4a8fcc8-d677-45fa-a452-ee94dd2ea736",
+    "name": "Tolwani",
+    "email": "tolueani@gmail.com",
+    "phone": "0814135917",
+    "selectedCourse": "masterclass",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "b35432731df82b88f64185dd0e8fcb41",
+      "hash": "a01ae8b6f2c83dd7fbc8dc8c9e8e4f6ee9d2eb127aa463e3a0d64cd4cb0da63a1180a0b590bea3569966b9a93410000abd5a50e9ded35473ade32eaf60a51fbe"
+    },
+    "progress": {},
+    "createdAt": "2026-09-28T16:02:08.364Z",
+    "lastLoginAt": "2026-09-28T16:02:08.364Z",
+    "paystackReference": "nd_student_b4a8fcc8-d677-45fa-a452-ee94dd2ea736_1790611329305"
+  },
+  {
+    "id": "student_a906f325-5b21-4d8b-aa5f-b6dcdf0dd4d5",
+    "name": "Bolalenle bobo",
+    "email": "bolanlebob@gmail.com",
+    "phone": "31846043",
+    "selectedCourse": "beginner",
+    "paymentStatus": "pending",
+    "password": {
+      "salt": "1dff8b10534a044bdc7a2de135480fd5",
+      "hash": "0752245cd4bee38eeaf44e950101842c18ede41e59a961e160eccbd296736945d8d48503f48dd70a3cf5350d5f1fdbf2d08c0aa3e54ec1f19d96c08cf5e4f0a0"
+    },
+    "progress": {},
+    "createdAt": "2026-09-28T16:09:23.703Z",
+    "lastLoginAt": "2026-09-28T16:09:23.703Z",
+    "paystackReference": "nd_student_a906f325-5b21-4d8b-aa5f-b6dcdf0dd4d5_1790611763718"
+  }
+]

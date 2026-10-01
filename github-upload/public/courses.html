@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Browse NailsByDav Academy courses, course details, and enrollment options.">
+  <title>Courses | NailsByDav Academy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/"><img src="/assets/nailsbydav-logo.png" alt="NailsByDav"><span><strong>NailsByDav</strong><small>SALON + ACADEMY</small></span></a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav">Menu</button>
+    <nav id="main-nav" class="main-nav">
+      <a href="/">Home</a><a href="/courses.html" aria-current="page">Courses</a><a href="/#gallery">Gallery</a><a href="/student-area.html">Student Area</a><a href="/contact.html">Contact</a><a href="/#about">About Us</a>
+    </nav>
+    <div class="header-actions"><button class="header-enroll" type="button" data-auth-open="signup">Enroll now</button></div>
+  </header>
+  <main>
+    <section class="courses-hero reference-hero">
+      <div class="reference-hero-copy"><p class="eyebrow">NailsByDav Academy</p><h1>Learn the<br>craft.<br><em>Build your<br>future.</em></h1><p>Explore the current Academy course catalog and review available course information before enrolling.</p></div>
+      <div class="reference-hero-card"><img src="/assets/gallery/image-16.jpg" alt="NailsByDav nail artistry"><div><span>Academy</span><strong>Choose your course</strong><small>Course details and enrollment</small></div></div>
+    </section>
+    <section class="courses-heading"><p class="eyebrow">NailsByDav Academy</p><h1>Choose your <em>course.</em></h1><p>Review the course information currently available, then open a course to see its modules.</p></section>
+    <section class="course-listing" id="course-list" aria-live="polite"><p role="status">Loading courses...</p></section>
+  </main>
+  <footer id="contact"><div><a class="footer-brand" href="/">NailsByDav</a><p>Professional nail artistry, beauty and education.</p></div><div><strong>Visit</strong><p>Johannesburg, South Africa<br>By appointment</p></div><div><strong>Connect</strong><a href="mailto:nailsbydav@gmail.com">nailsbydav@gmail.com</a><a href="/contact.html">Contact us</a></div><small>© 2026 NailsByDav. All rights reserved.</small></footer>
+  <dialog id="auth-dialog" class="auth-dialog"><button class="dialog-close" aria-label="Close">×</button><div id="auth-content"></div></dialog>
+  <script src="/app.js"></script>
+  <script src="/academy.js"></script>
+</body>
+</html>

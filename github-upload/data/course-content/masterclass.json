@@ -1,0 +1,1491 @@
+{
+  "courseId": "masterclass",
+  "title": "Nail Masterclass",
+  "modules": [
+    {
+      "id": "masterclass-module-1",
+      "title": "Foundations & Precision",
+      "description": "Refine the technical art of a clean, balanced and precise salon-ready service.",
+      "lessons": [
+        {
+          "id": "masterclass-lesson-1",
+          "title": "Advanced Nail Preparation",
+          "duration": "25 min",
+          "overview": "Refine the prep process so the surface is clean, balanced and ready for more polished product work.",
+          "learningObjectives": [
+            "Improve prep precision",
+            "Support long wear and clean finish",
+            "Reduce unnecessary pressure"
+          ],
+          "content": "Masterclass technique begins with a more deliberate prep process. Students should work with balance, intention and control rather than speed.",
+          "practicalWorkflow": "1. Review the nail plate. 2. Make a careful surface plan. 3. Clean and assess the finish before product.",
+          "commonMistakes": [
+            "Over-filing",
+            "Working too quickly",
+            "Skipping a final check"
+          ],
+          "assignment": {
+            "title": "Prep precision notes",
+            "instructions": "Describe how the prep routine changes when you want a longer-lasting, cleaner result.",
+            "expectedOutcome": "A clear prep strategy for more polished work."
+          },
+          "knowledgeCheck": {
+            "question": "Why is precision more important in the masterclass level?",
+            "options": [
+              "It reduces the need for review",
+              "It supports cleaner, more controlled results",
+              "It replaces hygiene checks",
+              "It makes each service the same"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Precision supports balanced prep and better technical outcomes."
+          },
+          "safetyNote": "Always work with product and tool instructions. Do not work over broken skin, bleeding or suspected infection.",
+          "keyTerms": [
+            "Prep precision",
+            "Balance",
+            "Service control",
+            "Clean finish"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-2",
+          "title": "Hygiene at Masterclass Level",
+          "duration": "20 min",
+          "overview": "Build a more disciplined hygiene routine so the service remains professional, safe and consistent.",
+          "learningObjectives": [
+            "Review hygiene standards",
+            "Keep the station orderly",
+            "Improve quality consistency"
+          ],
+          "content": "At masterclass level, professionalism is visible in routine. A clean, measured setup supports every technical decision that follows.",
+          "practicalWorkflow": "1. Prepare the station. 2. Reset tools. 3. Confirm the work stage before moving on.",
+          "commonMistakes": [
+            "Working from a cluttered setup",
+            "Rushing to product placement",
+            "Not resetting between steps"
+          ],
+          "assignment": {
+            "title": "Hygiene routine plan",
+            "instructions": "Outline the sequence you will use to maintain a tidy and professional station from start to finish.",
+            "expectedOutcome": "A stronger, more reliable hygiene workflow."
+          },
+          "knowledgeCheck": {
+            "question": "Why does hygiene matter even more in advanced training?",
+            "options": [
+              "It is only cosmetic",
+              "It supports safe work and consistent quality",
+              "It reduces the number of lessons",
+              "It replaces product review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Consistency and professionalism begin with a controlled, clean workstation."
+          },
+          "safetyNote": "Follow local salon policies, product instructions, and public-health standards at all times. Do not treat or diagnose skin conditions.",
+          "keyTerms": [
+            "Hygiene",
+            "Professional setup",
+            "Station control",
+            "Safety"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-3",
+          "title": "Cuticle Respect & Control",
+          "duration": "25 min",
+          "overview": "Work around the cuticle area with a careful approach that supports better structure and less stress on the surrounding skin.",
+          "learningObjectives": [
+            "Respect the nail fold",
+            "Control pressure",
+            "Protect the skin edge"
+          ],
+          "content": "Masterclass learners should understand that clean work is not forceful work. Good control around the cuticle line requires attention and restraint.",
+          "practicalWorkflow": "1. Inspect the cuticle edge. 2. Use gentle movement. 3. Reassess the skin before continuing.",
+          "commonMistakes": [
+            "Too much pressure",
+            "Overworking the nail fold",
+            "Ignoring discomfort cues"
+          ],
+          "assignment": {
+            "title": "Cuticle control reflection",
+            "instructions": "Describe how you would keep the cuticle area neat and controlled without harming the surrounding skin.",
+            "expectedOutcome": "Improved technical control around the skin edge."
+          },
+          "knowledgeCheck": {
+            "question": "What is the best approach around the cuticle area?",
+            "options": [
+              "Work aggressively to remove excess skin",
+              "Stay gentle and controlled with awareness of the nail fold",
+              "Skip this area completely",
+              "Apply product directly to the fold"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gentle, controlled handling supports a cleaner finish and reduces risk."
+          },
+          "safetyNote": "Never work over open wounds, bleeding or suspected infection. Refer concerns appropriately and do not diagnose.",
+          "keyTerms": [
+            "Cuticle control",
+            "Nail fold",
+            "Skin protection",
+            "Gentle technique"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-4",
+          "title": "Natural Shape Assessment",
+          "duration": "30 min",
+          "overview": "Assess the client or model nail shape carefully before choosing a more advanced silhouette.",
+          "learningObjectives": [
+            "Assess natural thickeners",
+            "Review the nail line",
+            "Choose suitable balance"
+          ],
+          "content": "The masterclass level requires more awareness of natural structure, because better results come from adapting technique to the nail rather than forcing an ideal.",
+          "practicalWorkflow": "1. Check the nail line. 2. Review shape and curvature. 3. Adjust technique to match the natural structure.",
+          "commonMistakes": [
+            "Forcing a shape",
+            "Ignoring natural structure",
+            "Overworking the edge"
+          ],
+          "assignment": {
+            "title": "Shape matching exercise",
+            "instructions": "Identify which silhouettes fit each nail structure and explain the reason for your choice.",
+            "expectedOutcome": "A more informed approach to shaping."
+          },
+          "knowledgeCheck": {
+            "question": "Why should shaping follow the natural nail structure?",
+            "options": [
+              "It makes the service faster",
+              "It keeps the finish balanced and respectful of the nail",
+              "It reduces the need for product",
+              "It makes all nails the same"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Natural structure should guide what is possible and what should be adjusted."
+          },
+          "safetyNote": "If the nail feels damaged or sensitive, stop and refer appropriately. Do not provide medical treatment or diagnose client conditions.",
+          "keyTerms": [
+            "Natural shape",
+            "Silhouette",
+            "Balance",
+            "Structure"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-5",
+          "title": "Mastering the Product Ratio",
+          "duration": "25 min",
+          "overview": "Learn how the amount and proportion of product can affect the final masterclass finish and client comfort.",
+          "learningObjectives": [
+            "Use product with better proportion",
+            "Reduce overbuilding",
+            "Maintain a clean finish"
+          ],
+          "content": "Masterclass outcomes depend on clean visual balance and measured technique. Product ratio is one of the clearest indicators of control.",
+          "practicalWorkflow": "1. Check the amount used. 2. Adjust for nail shape. 3. Review the finish before continuing.",
+          "commonMistakes": [
+            "Oversupply at the apex",
+            "Uneven distribution",
+            "Not checking the free edge"
+          ],
+          "assignment": {
+            "title": "Product ratio review",
+            "instructions": "Review one product setup and note how the amount, placement and finish changed as you worked.",
+            "expectedOutcome": "A practical understanding of balanced product use."
+          },
+          "knowledgeCheck": {
+            "question": "What is the main benefit of correct product ratio?",
+            "options": [
+              "It shortens the session",
+              "It improves balance, comfort and finish",
+              "It removes the need for cleanup",
+              "It ensures the same amount on every nail"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Proper ratio supports cleaner product work and a more professional result."
+          },
+          "safetyNote": "Use only the recommended amount for the system and the nail condition. Do not work over compromised skin or inflammation.",
+          "keyTerms": [
+            "Product ratio",
+            "Balance",
+            "Overbuilding",
+            "Finish quality"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "masterclass-module-2",
+      "title": "Technique & Application",
+      "description": "Build greater precision in application, placement and finishing for a more polished, controlled result.",
+      "lessons": [
+        {
+          "id": "masterclass-lesson-6",
+          "title": "Balanced Product Placement",
+          "duration": "30 min",
+          "overview": "Place product in a more deliberate way to support structure, comfort and clean visual proportion.",
+          "learningObjectives": [
+            "Balance product placement",
+            "Prevent uneven build-up",
+            "Improve visual finish"
+          ],
+          "content": "Even placement is crucial in advanced technique. Good placement reduces heavy spots and gives a more elegant, clean finish.",
+          "practicalWorkflow": "1. Check the nail balance. 2. Place product in a measured flow. 3. Review the shape before final finishing.",
+          "commonMistakes": [
+            "High concentration at the stress point",
+            "Incomplete coverage",
+            "Unclear edge finish"
+          ],
+          "assignment": {
+            "title": "Placement quality review",
+            "instructions": "Practice balancing the product across the nail and note what you adjusted to keep the shape clean.",
+            "expectedOutcome": "A more controlled application routine."
+          },
+          "knowledgeCheck": {
+            "question": "Why does balanced placement matter?",
+            "options": [
+              "It changes the colour selection",
+              "It improves finish quality and comfort",
+              "It makes the product harder to remove",
+              "It replaces prep"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Balanced placement leads to a cleaner, stronger visual result."
+          },
+          "safetyNote": "Follow product instructions and avoid placing product on damaged or inflamed skin. If discomfort occurs, stop and reassess.",
+          "keyTerms": [
+            "Placement",
+            "Structure",
+            "Balance",
+            "Visual finish"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-7",
+          "title": "Advanced Finishing Techniques",
+          "duration": "25 min",
+          "overview": "Polish the finish with a stronger sense of edge control, detail and client-ready quality.",
+          "learningObjectives": [
+            "Refine the final finish",
+            "Check edge neatness",
+            "Improve service standards"
+          ],
+          "content": "Finish quality often separates a good result from a polished result. The attention to detail at this stage is what gives the service a more professional feel.",
+          "practicalWorkflow": "1. Review the surface. 2. Confirm clean edges. 3. Finalise the finish with controlled attention.",
+          "commonMistakes": [
+            "Rough free edge",
+            "Uneven seal",
+            "Skipping the final polish pass"
+          ],
+          "assignment": {
+            "title": "Finish assessment",
+            "instructions": "Create a short finish checklist that covers shape, edge neatness and overall surface consistency.",
+            "expectedOutcome": "A more polished and reliable finish routine."
+          },
+          "knowledgeCheck": {
+            "question": "What does a final finish review check?",
+            "options": [
+              "Only the choice of colour",
+              "Edge control, seal quality and overall balance",
+              "Only the client booking time",
+              "Only the product cost"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Finish review is about quality details and consistency."
+          },
+          "safetyNote": "Use product instructions and salon policy. Do not continue if the nail or surrounding skin appears compromised.",
+          "keyTerms": [
+            "Final finish",
+            "Edge control",
+            "Seal quality",
+            "Refinement"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-8",
+          "title": "Working with a Consistent Rhythm",
+          "duration": "20 min",
+          "overview": "Build a smooth rhythm between prep, placement and finish so the service feels controlled and professional.",
+          "learningObjectives": [
+            "Improve service timing",
+            "Maintain control",
+            "Stay consistent across each nail"
+          ],
+          "content": "A consistent rhythm helps reduce unnecessary corrections and makes each step feel intentional. This keeps the service calm, focused and easier to repeat.",
+          "practicalWorkflow": "1. Set a pace. 2. Keep the sequence constant. 3. Review and adjust if quality drops.",
+          "commonMistakes": [
+            "Rushing through key checks",
+            "Changing the sequence mid-service",
+            "Skipping a final check"
+          ],
+          "assignment": {
+            "title": "Rhythm plan",
+            "instructions": "Create a simple service rhythm that keeps your timing calm and your technique consistent.",
+            "expectedOutcome": "A repeatable, more controlled service flow."
+          },
+          "knowledgeCheck": {
+            "question": "Why does a consistent rhythm matter?",
+            "options": [
+              "It makes the service longer",
+              "It supports control and more predictable quality",
+              "It replaces prep",
+              "It removes the need for final review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A steady rhythm reduces errors and supports the quality of the finish."
+          },
+          "safetyNote": "Do not rush if the client reports discomfort or if the nail area appears compromised. Stop and assess appropriately.",
+          "keyTerms": [
+            "Rhythm",
+            "Consistency",
+            "Timing",
+            "Controlled flow"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-9",
+          "title": "Mastering the Client Experience",
+          "duration": "25 min",
+          "overview": "Improve the quality of the entire service by combining technical skill with professional communication and comfort awareness.",
+          "learningObjectives": [
+            "Combine technique with care",
+            "Observe client comfort",
+            "Support better service confidence"
+          ],
+          "content": "A masterclass service is not only about the final result. It is about how the client feels throughout the service and how confidently the student manages each step.",
+          "practicalWorkflow": "1. Check in during the service. 2. Observe comfort. 3. Adjust with care and calm communication.",
+          "commonMistakes": [
+            "Only focusing on the product",
+            "Ignoring client cues",
+            "Failing to communicate clearly"
+          ],
+          "assignment": {
+            "title": "Client experience review",
+            "instructions": "Note how client comfort, communication and technique all support the quality of the finish.",
+            "expectedOutcome": "A more professional and client-centred service rhythm."
+          },
+          "knowledgeCheck": {
+            "question": "What does the client experience include?",
+            "options": [
+              "Only the final finish",
+              "Comfort, communication and product care",
+              "Only the time duration",
+              "Only the beauty of the design"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The quality of the service includes both technical and client-care elements."
+          },
+          "safetyNote": "If a client reports pain, sensitivity or visible skin concerns, stop and follow the appropriate referral or salon protocol. Do not diagnose or treat.",
+          "keyTerms": [
+            "Client experience",
+            "Comfort",
+            "Communication",
+            "Professional care"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-10",
+          "title": "Self Review and Correction",
+          "duration": "30 min",
+          "overview": "Build the habit of reviewing your own work and correcting issues before they become major service problems.",
+          "learningObjectives": [
+            "Review work critically",
+            "Correct early issues",
+            "Build better habits"
+          ],
+          "content": "Masterclass learners should be able to spot subtle issues before they become visible or uncomfortable. Good self-review creates smoother service outcomes.",
+          "practicalWorkflow": "1. Review the nail set. 2. Identify the small issue. 3. Correct it with minimal disruption.",
+          "commonMistakes": [
+            "Ignoring subtle issues",
+            "Over-correcting",
+            "Rushing the review step"
+          ],
+          "assignment": {
+            "title": "Self-correction plan",
+            "instructions": "Explain how you would correct a minor finish or placement issue without restarting the whole process.",
+            "expectedOutcome": "A more nuanced troubleshooting routine."
+          },
+          "knowledgeCheck": {
+            "question": "Why is self-review important in advanced work?",
+            "options": [
+              "It reduces the need for product instructions",
+              "It helps catch issues before they become major problems",
+              "It shortens all teaching content",
+              "It makes work identical every time"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Self-review supports a higher standard of control and professional consistency."
+          },
+          "safetyNote": "Do not continue if the nail or skin condition appears compromised. Follow product and salon guidance and refer where needed.",
+          "keyTerms": [
+            "Self-review",
+            "Correction",
+            "Precision",
+            "Professional quality"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "masterclass-module-3",
+      "title": "Salon-Ready Execution",
+      "description": "Move from clean technique into more polished salon-ready execution with structure and quality checks.",
+      "lessons": [
+        {
+          "id": "masterclass-lesson-11",
+          "title": "Quality Control in Practice",
+          "duration": "25 min",
+          "overview": "Check each stage of the service with a quality-control mindset, not just at the end.",
+          "learningObjectives": [
+            "Review every stage",
+            "Catch issues early",
+            "Stay polished under time pressure"
+          ],
+          "content": "Quality control keeps the service calm, consistent and professional. It starts before product placement and continues to the final finish.",
+          "practicalWorkflow": "1. Check prep. 2. Check placement. 3. Check finish. 4. Review final quality.",
+          "commonMistakes": [
+            "Waiting until the end to review",
+            "Assuming the work is correct",
+            "Skipping a final scan"
+          ],
+          "assignment": {
+            "title": "Quality control checklist",
+            "instructions": "Write a simple quality-control checklist covering the main checkpoints in a salon-ready service.",
+            "expectedOutcome": "A more methodical quality review."
+          },
+          "knowledgeCheck": {
+            "question": "What does quality control check?",
+            "options": [
+              "Only the final colour",
+              "Every stage of the service",
+              "Only the client booking",
+              "Only the workshop tidiness"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Quality control is an active review from prep through to finish."
+          },
+          "safetyNote": "Work within accepted salon and public-health standards. Do not continue on compromised skin or unknown concerns.",
+          "keyTerms": [
+            "Quality control",
+            "Review",
+            "Checkpoint",
+            "Professional standards"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-12",
+          "title": "Structure and Design Balance",
+          "duration": "30 min",
+          "overview": "Review how structure, balance and detail create the final polished salon look.",
+          "learningObjectives": [
+            "Assess balance",
+            "Improve detail awareness",
+            "Support a cleaner finish"
+          ],
+          "content": "Architecture and visual balance are inseparable in polished work. The most refined finishes feel deliberate and consistent from every angle.",
+          "practicalWorkflow": "1. Review structure. 2. Check shape. 3. Check visual balance. 4. Final review before finish.",
+          "commonMistakes": [
+            "Focusing on one angle only",
+            "Ignoring visual balance",
+            "Forgetting edge detail"
+          ],
+          "assignment": {
+            "title": "Balance review",
+            "instructions": "Identify one point where the structure or finish could look unbalanced and describe a small correction.",
+            "expectedOutcome": "A clearer eye for balance and professionalism."
+          },
+          "knowledgeCheck": {
+            "question": "Why is structure and balance important in a polished finish?",
+            "options": [
+              "It makes the design more expensive",
+              "It improves the visual calm and professional look",
+              "It reduces product use",
+              "It shortens the service"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Balance supports a cleaner, more elegant finish."
+          },
+          "safetyNote": "Stay within manufacturer instructions and do not work on ill skin or other compromised conditions. Refer appropriately.",
+          "keyTerms": [
+            "Structure",
+            "Balance",
+            "Visual quality",
+            "Professional appearance"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-13",
+          "title": "Client Communication During Service",
+          "duration": "20 min",
+          "overview": "Use calm communication and observation to align technical progress with client comfort and confidence.",
+          "learningObjectives": [
+            "Communicate clearly",
+            "Monitor client comfort",
+            "Keep the client at ease"
+          ],
+          "content": "Professional communication helps the client understand what is happening without making the service feel rushed or uncomfortable.",
+          "practicalWorkflow": "1. Explain the next step. 2. Observe comfort. 3. Continue with calm adjustments.",
+          "commonMistakes": [
+            "Overexplaining or rushing",
+            "Ignoring client cues",
+            "Failing to set expectations"
+          ],
+          "assignment": {
+            "title": "Communication script",
+            "instructions": "Draft a brief script for explaining the next service step and checking in with the client without overwhelming them.",
+            "expectedOutcome": "A more professional communication approach."
+          },
+          "knowledgeCheck": {
+            "question": "What should communication during a service aim to do?",
+            "options": [
+              "Only shorten the service",
+              "Create calm awareness and client comfort",
+              "Replace technical skill",
+              "Reduce the student\u2019s responsibility"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Clear communication supports comfort and confidence during each stage."
+          },
+          "safetyNote": "If the client reports pain or discomfort, stop and follow appropriate salon or referral protocols. Do not diagnose or treat.",
+          "keyTerms": [
+            "Communication",
+            "Client comfort",
+            "Expectation",
+            "Professional care"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-14",
+          "title": "Troubleshooting Advanced Finish Issues",
+          "duration": "25 min",
+          "overview": "Spot problems in the final surface, edge or balance and correct them with minimal disruption.",
+          "learningObjectives": [
+            "Identify subtle finish issues",
+            "Correct without overworking",
+            "Stay calm under review"
+          ],
+          "content": "Advanced learners need to troubleshoot without panic. A calm adjustment strategy is usually more effective than major corrections.",
+          "practicalWorkflow": "1. Review the concern. 2. Identify the cause. 3. Correct with minimal disruption.",
+          "commonMistakes": [
+            "Over-correcting",
+            "Ignoring a subtle issue",
+            "Making a bigger fix than necessary"
+          ],
+          "assignment": {
+            "title": "Troubleshooting scenario",
+            "instructions": "Describe a small finish or balance issue and show how you would solve it without disrupting the whole service.",
+            "expectedOutcome": "A calmer, more effective troubleshooting approach."
+          },
+          "knowledgeCheck": {
+            "question": "What makes a good troubleshooting approach?",
+            "options": [
+              "Overcorrecting immediately",
+              "Reviewing the cause and correcting minimally",
+              "Skipping the final review",
+              "Changing the whole sequence"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Targeted correction is more effective and less disruptive than dramatic changes."
+          },
+          "safetyNote": "Keep adjustments within the product instructions and the client\u2019s condition. Stop if the skin appears irritated or compromised.",
+          "keyTerms": [
+            "Troubleshooting",
+            "Correction",
+            "Finish issue",
+            "Calm adjustment"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-15",
+          "title": "Practical Masterclass Review",
+          "duration": "35 min",
+          "overview": "Conduct a final practical review that considers preparation, finish, comfort and professionalism together.",
+          "learningObjectives": [
+            "Review the whole service",
+            "Confirm skill quality",
+            "Prepare for deeper work"
+          ],
+          "content": "A masterclass review looks at the service as a complete process, not just a single result. This helps students understand what quality really means in a polished salon service.",
+          "practicalWorkflow": "1. Review the whole service. 2. Identify the strongest parts. 3. Choose one improvement to carry forward.",
+          "commonMistakes": [
+            "Reviewing only the final look",
+            "Forgetting the process",
+            "Lack of next-step planning"
+          ],
+          "assignment": {
+            "title": "Service review summary",
+            "instructions": "Write a short review of one masterclass service and identify one technical strength and one technical area to improve.",
+            "expectedOutcome": "A mature service assessment practice."
+          },
+          "knowledgeCheck": {
+            "question": "What should a masterclass review include?",
+            "options": [
+              "Only price and time",
+              "Process, finish and client comfort",
+              "Only the final design",
+              "Only the steps that feel easiest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A complete review covers both process and result."
+          },
+          "safetyNote": "Use review to support better technique and safe practice, not to treat or diagnose conditions. Follow salon and public-health rules.",
+          "keyTerms": [
+            "Service review",
+            "Professional quality",
+            "Improvement",
+            "Technique assessment"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "masterclass-module-4",
+      "title": "Advanced Practice",
+      "description": "Build stronger practical habits and more refined consistency through focused repetition.",
+      "lessons": [
+        {
+          "id": "masterclass-lesson-16",
+          "title": "Focused Practice Session",
+          "duration": "20 min",
+          "overview": "Use a focused practice plan to improve one high-value skill without overloading the session.",
+          "learningObjectives": [
+            "Choose one improvement",
+            "Keep practice targeted",
+            "Review the result with clarity"
+          ],
+          "content": "Focused practice supports better technique because it reduces random effort and gives the student a clear objective.",
+          "practicalWorkflow": "1. Choose one focus point. 2. Repeat the skill with intention. 3. Review one improvement and one next step.",
+          "commonMistakes": [
+            "Changing too much at once",
+            "Practising without review",
+            "Rushing the session"
+          ],
+          "assignment": {
+            "title": "Targeted practice plan",
+            "instructions": "Make a practice plan based on one technical challenge and one final review that will tell you if the improvement worked.",
+            "expectedOutcome": "A clear, repeatable improvement cycle."
+          },
+          "knowledgeCheck": {
+            "question": "What makes focused practice useful?",
+            "options": [
+              "Only speed",
+              "A clear objective and review step",
+              "Low expectations",
+              "Skipping the recap"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Focused practice allows more meaningful improvement than random repetition."
+          },
+          "safetyNote": "Keep practice intentional and safe. Follow all product instructions and stop if the client or model presents skin concerns.",
+          "keyTerms": [
+            "Focused practice",
+            "Goal setting",
+            "Review",
+            "Technique"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-17",
+          "title": "Avoiding Overwork",
+          "duration": "25 min",
+          "overview": "Learn when to stop, adjust and refine instead of pushing technique too far.",
+          "learningObjectives": [
+            "Recognise overwork",
+            "Check the nail condition",
+            "Adjust technique with better judgement"
+          ],
+          "content": "Overwork often creates tension between technique and comfort. Students need to know when a bit more attention is helpful and when enough is enough.",
+          "practicalWorkflow": "1. Observe the current work. 2. Check pressure and movement. 3. Adjust to maintain comfort and finish.",
+          "commonMistakes": [
+            "Excessive filing",
+            "Unnecessary pressure",
+            "Overbuilding solution after a small issue"
+          ],
+          "assignment": {
+            "title": "Overwork reflection",
+            "instructions": "Write how you would recognise when to stop refining and when to make a tiny correction instead of continuing.",
+            "expectedOutcome": "More calibrated technique and better judgement."
+          },
+          "knowledgeCheck": {
+            "question": "What is the key to avoiding overwork?",
+            "options": [
+              "More filing",
+              "Better observation and controlled adjustment",
+              "Skipping the review",
+              "Continuing until the edge feels perfect"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Observation and restraint help prevent unnecessary pressure or damage."
+          },
+          "safetyNote": "Never continue if the nail area appears sore, inflamed or damaged. Do not diagnose or treat skin conditions.",
+          "keyTerms": [
+            "Overwork",
+            "Technique judgement",
+            "Pressure control",
+            "Refinement"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-18",
+          "title": "Reading Small Details in Finish",
+          "duration": "20 min",
+          "overview": "Develop stronger noticing skills so small finish details can be corrected before the service ends.",
+          "learningObjectives": [
+            "Notice small details",
+            "Adjust quickly",
+            "Support a polished finish"
+          ],
+          "content": "Advanced learners often improve because they notice details early. The small differences in edge, texture and finish matter when the goal is a polished salon result.",
+          "practicalWorkflow": "1. Scan the work. 2. Look for uneven detail. 3. Correct with minimal disruption.",
+          "commonMistakes": [
+            "Looking only from the front",
+            "Ignoring edge detail",
+            "Not checking in both angles"
+          ],
+          "assignment": {
+            "title": "Detail scan",
+            "instructions": "Document the small details you would check in a final finish scan and explain how they affect the client\u2019s impression.",
+            "expectedOutcome": "Improved observation and fine detail awareness."
+          },
+          "knowledgeCheck": {
+            "question": "What is the benefit of noticing small finish details?",
+            "options": [
+              "It makes longer sessions necessary",
+              "It allows early correction and better polish",
+              "It replaces technical skill",
+              "It means no final review is needed"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Small details are easier to correct when noticed early."
+          },
+          "safetyNote": "Use review to improve quality and protect the client. Stop if there is discomfort, irritation or skin concerns.",
+          "keyTerms": [
+            "Detail scan",
+            "Observation",
+            "Polish",
+            "Final check"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-19",
+          "title": "Building Technical Confidence",
+          "duration": "25 min",
+          "overview": "Use repeatable, structured work to build technical confidence without sacrificing quality and care.",
+          "learningObjectives": [
+            "Build confidence through process",
+            "Use structure as support",
+            "Refine practice methods"
+          ],
+          "content": "Technical confidence grows when the steps are understood and repeated. Students become more comfortable when they know what to evaluate and what to adjust.",
+          "practicalWorkflow": "1. Review the technique. 2. Repeat with intent. 3. Record one improvement for the next session.",
+          "commonMistakes": [
+            "Using confidence as a reason to rush",
+            "Skipping process review",
+            "Comparing against other learners"
+          ],
+          "assignment": {
+            "title": "Confidence log",
+            "instructions": "Write a short confidence log that lists a skill you are more controlled in now and one you still want to refine.",
+            "expectedOutcome": "A realistic view of technical growth."
+          },
+          "knowledgeCheck": {
+            "question": "How does structure build confidence?",
+            "options": [
+              "By reducing the need for practice",
+              "By giving students a clear path to review and adjust",
+              "By replacing careful observation",
+              "By guaranteeing the same result each time"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A clear structure supports calm practice and higher technical confidence."
+          },
+          "safetyNote": "Confidence should never replace careful observation, product instructions, or safety awareness. Follow current salon standards.",
+          "keyTerms": [
+            "Confidence",
+            "Structure",
+            "Review",
+            "Technical growth"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-20",
+          "title": "Preparing for a Higher Standard",
+          "duration": "30 min",
+          "overview": "Begin to prepare for deeper, more polished technique by reviewing what quality, structure and control look like day to day.",
+          "learningObjectives": [
+            "Develop a higher standard",
+            "Assess technique honestly",
+            "Set the next improvement target"
+          ],
+          "content": "The masterclass student should be learning how to judge quality more carefully, not just whether a finish looks acceptable. A higher standard begins with better observation.",
+          "practicalWorkflow": "1. Review current skill. 2. Decide what is worth improving. 3. Set one next target.",
+          "commonMistakes": [
+            "Setting vague goals",
+            "Ignoring quality detail",
+            "Assuming one session is enough"
+          ],
+          "assignment": {
+            "title": "Higher standard plan",
+            "instructions": "Create a one-page plan explaining the standard you want to reach, one skill for improvement and how you will review it.",
+            "expectedOutcome": "A more deliberate path toward advanced technique."
+          },
+          "knowledgeCheck": {
+            "question": "What is the goal of setting a higher standard?",
+            "options": [
+              "To compare with other students only",
+              "To evaluate quality more clearly and improve with intention",
+              "To avoid review entirely",
+              "To reduce all technical detail"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A higher standard is about clearer quality criteria and more intentional improvement."
+          },
+          "safetyNote": "Higher standards should never excuse poor safety or poor client care. Follow product instructions and note any skin conditions appropriately.",
+          "keyTerms": [
+            "Higher standard",
+            "Quality criteria",
+            "Progress",
+            "Professional judgement"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "masterclass-module-5",
+      "title": "Completion & Readiness",
+      "description": "Confirm the masterclass standard, review key skills and prepare for advanced work with confidence.",
+      "lessons": [
+        {
+          "id": "masterclass-lesson-21",
+          "title": "Course Reflection & Growth",
+          "duration": "20 min",
+          "overview": "Reflect on technical growth and identify the habits that will carry into more advanced work.",
+          "learningObjectives": [
+            "Review what has improved",
+            "Identify the next high-value skill",
+            "Build a realistic learning plan"
+          ],
+          "content": "Masterclass reflection should be honest and specific. It should highlight the work that improved and the details that are still worth refining.",
+          "practicalWorkflow": "1. List three technical wins. 2. Choose one focus. 3. Set a next action.",
+          "commonMistakes": [
+            "Not reflecting honestly",
+            "Focusing only on one result",
+            "Ending without a next step"
+          ],
+          "assignment": {
+            "title": "Growth reflection",
+            "instructions": "Write a short growth reflection and identify one strength, one area to improve and one next action.",
+            "expectedOutcome": "A clearer path to continued progress."
+          },
+          "knowledgeCheck": {
+            "question": "Why is reflection important at this level?",
+            "options": [
+              "To avoid further practice",
+              "To understand real progress and next steps",
+              "To replace salon standards",
+              "To guarantee speed"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Reflection helps students see progress and choose better next-step actions."
+          },
+          "safetyNote": "Reflection should support learning, not treatment claims. Follow product instructions and public-health rules at all times.",
+          "keyTerms": [
+            "Reflection",
+            "Growth",
+            "Progress",
+            "Next step"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-22",
+          "title": "Reviewing Salon Readiness",
+          "duration": "25 min",
+          "overview": "Assess whether the technical and professional habits you have built are ready for more polished client services.",
+          "learningObjectives": [
+            "Review professional readiness",
+            "Assess service consistency",
+            "Set the next growth target"
+          ],
+          "content": "Salon readiness is not only about skill. It also includes cleanliness, calm communication and the ability to identify when a task needs more care or a pause.",
+          "practicalWorkflow": "1. Review your service routine. 2. Check quality consistency. 3. Decide what still needs refinement.",
+          "commonMistakes": [
+            "Assuming readiness without review",
+            "Skipping a final check",
+            "Comparing with a different standard"
+          ],
+          "assignment": {
+            "title": "Readiness review",
+            "instructions": "Draft a short salon-readiness review covering hygiene, technique, communication and quality control.",
+            "expectedOutcome": "A realistic evaluation of readiness to advance."
+          },
+          "knowledgeCheck": {
+            "question": "What does salon readiness include?",
+            "options": [
+              "Only the final result",
+              "Process, hygiene and professional control",
+              "Only the client comment",
+              "Only the speed of service"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Readiness includes both technical quality and professional behaviour."
+          },
+          "safetyNote": "Do not continue with compromised skin conditions. Keep to local salon rules and refer concerns appropriately.",
+          "keyTerms": [
+            "Salon readiness",
+            "Professional control",
+            "Process review",
+            "Quality check"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-23",
+          "title": "Safety & Observation Review",
+          "duration": "20 min",
+          "overview": "Reinforce the importance of careful observation and safe decision-making in every service stage.",
+          "learningObjectives": [
+            "Review safety awareness",
+            "Keep observation active",
+            "Support referral awareness"
+          ],
+          "content": "A polished service still needs careful observation. Students must know when to slow down, pause or refer rather than push through.",
+          "practicalWorkflow": "1. Check the skin and comfort. 2. Review the service area. 3. Adjust or pause when needed.",
+          "commonMistakes": [
+            "Pushing through discomfort",
+            "Ignoring signs of irritation",
+            "Rushing without a review"
+          ],
+          "assignment": {
+            "title": "Observation review",
+            "instructions": "List two safety observations that would warrant slowing the service or redirecting the client to appropriate care.",
+            "expectedOutcome": "A stronger safety and observation framework."
+          },
+          "knowledgeCheck": {
+            "question": "What should observation help students do?",
+            "options": [
+              "Ignore discomfort",
+              "Notice signs and respond appropriately",
+              "Increase speed",
+              "Eliminate review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Observation supports better safety decisions and more professional care."
+          },
+          "safetyNote": "Never work over open wounds, bleeding, or suspected infection. Do not diagnose or claim medical treatment.",
+          "keyTerms": [
+            "Observation",
+            "Safety",
+            "Referral",
+            "Professional response"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-24",
+          "title": "Planning the Next Technical Goal",
+          "duration": "20 min",
+          "overview": "Choose a next goal that will deepen quality without creating unnecessary pressure or poor habits.",
+          "learningObjectives": [
+            "Set a realistic next target",
+            "Keep the plan specific",
+            "Support higher-level practice"
+          ],
+          "content": "A strong next target is specific and connected to a clear need. The goal should support growth and be honest about what still requires work.",
+          "practicalWorkflow": "1. Pick one improvement area. 2. Specify the action. 3. Review with a clear benchmark.",
+          "commonMistakes": [
+            "Vague goals",
+            "No benchmark",
+            "Trying to improve everything at once"
+          ],
+          "assignment": {
+            "title": "Next goal plan",
+            "instructions": "Set a technical goal for your next practice session and explain how you will know it is improving.",
+            "expectedOutcome": "A realistic, measurable next step."
+          },
+          "knowledgeCheck": {
+            "question": "What makes a good next goal?",
+            "options": [
+              "It is broad and unspecific",
+              "It is clear, relevant and measurable",
+              "It is chosen randomly",
+              "It avoids review"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A clear target is easier to improve and easier to assess."
+          },
+          "safetyNote": "Set realistic goals that respect product instructions and client safety. Avoid making any treatment claims.",
+          "keyTerms": [
+            "Next goal",
+            "Benchmark",
+            "Improvement",
+            "Planning"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        },
+        {
+          "id": "masterclass-lesson-25",
+          "title": "Masterclass Completion Readiness",
+          "duration": "30 min",
+          "overview": "Confirm that the student has the technical, professional and safety habits needed to continue into more advanced work.",
+          "learningObjectives": [
+            "Review readiness",
+            "Confirm standards",
+            "Set next-stage direction"
+          ],
+          "content": "Completion is not just about finishing a course; it is about confirming that key standards are in place and that improvement can continue without rushing or ignoring safety.",
+          "practicalWorkflow": "1. Review the service habit. 2. Check technical control. 3. Confirm next-stage readiness.",
+          "commonMistakes": [
+            "Confusing completion with perfection",
+            "Skipping readiness checks",
+            "Ignoring safety and review"
+          ],
+          "assignment": {
+            "title": "Readiness summary",
+            "instructions": "Write a final summary describing your technical strengths, your safe practice habits and the next area you want to deepen.",
+            "expectedOutcome": "A maturity-based readiness review."
+          },
+          "knowledgeCheck": {
+            "question": "What does completion readiness mean?",
+            "options": [
+              "The course is over",
+              "The student has solid standards, safety and next steps",
+              "The service is always perfect",
+              "No more review is needed"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Readiness means the student can continue with a clear standard of technique and safety."
+          },
+          "safetyNote": "Good readiness is grounded in professionalism, public-health compliance, product guidance and appropriate referral when skin concerns are present.",
+          "keyTerms": [
+            "Readiness",
+            "Completion",
+            "Professional standards",
+            "Next stage"
+          ],
+          "video": {
+            "status": "coming_soon",
+            "url": null,
+            "thumbnail": null,
+            "duration": null
+          },
+          "diagram": {
+            "status": "coming_soon",
+            "image": null,
+            "alt": "Educational diagram coming soon"
+          },
+          "resource": {
+            "status": "coming_soon",
+            "type": "worksheet",
+            "url": null,
+            "title": "Worksheet/checklist coming soon"
+          }
+        }
+      ]
+    }
+  ]
+}

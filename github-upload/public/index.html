@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+      name="description"
+      content="NailsByDav — luxury nail artistry and practical professional education."
+    >
+    <title>NailsByDav | Salon & Academy</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap"
+    >
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <img src="/assets/nailsbydav-logo.png" alt="NailsByDav">
+        <span>
+          <strong>NailsByDav</strong>
+          <small>SALON + ACADEMY</small>
+        </span>
+      </a>
+
+      <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav">
+        Menu
+      </button>
+
+      <nav id="main-nav" class="main-nav">
+        <a href="/">Home</a>
+        <a href="/courses.html">Courses</a>
+        <a href="/#gallery">Gallery</a>
+        <a href="/student-area.html">Student Area</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/#about">About Us</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="header-enroll" data-auth-open="signup">Enroll now</button>
+      </div>
+    </header>
+
+    <main id="home">
+      <section class="hero">
+        <div class="hero-copy reveal">
+          <p class="eyebrow">Nail artistry & education</p>
+          <h1>
+            Beautiful nails.<br>
+            <em>Brighter futures.</em>
+          </h1>
+          <p class="hero-intro">
+            Professional nail artistry and practical training designed to build confidence,
+            skills, and beautiful everyday moments.
+          </p>
+
+          <div class="actions">
+            <a class="button button-dark" href="/courses.html">
+              View courses <span>↗</span>
+            </a>
+            <button class="text-button" type="button" data-auth-open="signup">
+              Get started <span>→</span>
+            </button>
+          </div>
+
+          <div class="hero-proof">
+            <span><strong>3k+</strong> happy clients</span>
+            <span><strong>250+</strong> students guided</span>
+            <span><strong>4.9/5</strong> average rating</span>
+          </div>
+        </div>
+
+        <div class="hero-art reveal reveal-delay">
+          <div class="hero-image">
+            <img src="/assets/gallery/image-16.jpg" alt="Elegant nude NailsByDav manicure">
+          </div>
+          <div class="floating-note">
+            <span>✦</span>
+            <strong>Start where<br>you are.</strong>
+            <small>Grow with confidence.</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="benefits">
+        <article>
+          <span>01</span>
+          <h3>Professional quality</h3>
+          <p>Precise care and polished artistry.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Industry expertise</h3>
+          <p>Professional techniques made practical.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Personal experience</h3>
+          <p>Made around your goals and style.</p>
+        </article>
+        <article>
+          <span>04</span>
+          <h3>Supportive community</h3>
+          <p>A place to learn and feel at home.</p>
+        </article>
+      </section>
+
+      <section id="about" class="story-section reveal-on-scroll">
+        <div class="story-visual">
+          <img src="/assets/gallery/image-15.jpg" alt="A detailed NailsByDav manicure in progress">
+        </div>
+        <div class="story-copy">
+          <p class="eyebrow">Why NailsByDav</p>
+          <h2>
+            Beauty is the<br>
+            <em>beginning.</em>
+          </h2>
+          <p>
+            We combine thoughtful nail care with a creative, welcoming learning space.
+            Every appointment is crafted with intention; every lesson is built to help a
+            future nail artist grow.
+          </p>
+          <a class="text-button" href="#contact">Learn more about us →</a>
+        </div>
+      </section>
+
+      <section id="services" class="section reveal-on-scroll">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The salon</p>
+            <h2>
+              Your hands,<br>
+              <em>beautifully done.</em>
+            </h2>
+          </div>
+          <p>Thoughtful nail care, precise technique, and a finish that feels unmistakably you.</p>
+        </div>
+        <div id="service-list" class="service-list"></div>
+      </section>
+
+      <section id="academy" class="section academy-section reveal-on-scroll">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The academy</p>
+            <h2>
+              Find your next<br>
+              <em>level.</em>
+            </h2>
+          </div>
+          <p>
+            Build a skill that travels with you. Structured, practical courses for people ready
+            to create something of their own.
+          </p>
+        </div>
+        <div id="course-list" class="course-grid"></div>
+        <p class="center">
+          <button class="button button-dark" data-auth-open="signup">Join the academy ↗</button>
+        </p>
+      </section>
+
+      <section class="instructors reveal-on-scroll">
+        <div>
+          <p class="eyebrow">Learn with us</p>
+          <h2>
+            Guidance that<br>
+            <em>feels personal.</em>
+          </h2>
+        </div>
+
+        <div class="instructor-grid">
+          <article>
+            <img src="/assets/gallery/image-05.jpg" alt="NailsByDav educator at work">
+            <h3>Elena Vance</h3>
+            <p>Nail artistry educator</p>
+          </article>
+          <article>
+            <img src="/assets/gallery/image-06.jpg" alt="NailsByDav educator guiding a student">
+            <h3>Sarah Jenkins</h3>
+            <p>Student mentor</p>
+          </article>
+          <article>
+            <img src="/assets/gallery/image-07.jpg" alt="NailsByDav beauty professional">
+            <h3>Marcus Thorne</h3>
+            <p>Creative specialist</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="gallery" class="section gallery-section reveal-on-scroll">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The gallery</p>
+            <h2>Nail <em>artistry.</em></h2>
+          </div>
+          <p>Details, texture, shine, and the moments behind a beautiful set.</p>
+        </div>
+
+        <div class="gallery-filters">
+          <button class="active" data-filter="all">All</button>
+          <button data-filter="gel">Gel</button>
+          <button data-filter="acrylic">Acrylic</button>
+          <button data-filter="art">Nail art</button>
+          <button data-filter="french">French</button>
+          <button data-filter="luxury">Luxury</button>
+        </div>
+
+        <div class="gallery-grid">
+          <button class="gallery-item tall" data-gallery="gel">
+            <img src="/assets/gallery/image-08.jpg" alt="Nude gel manicure">
+            <span>Gel details</span>
+          </button>
+          <button class="gallery-item" data-gallery="french">
+            <img src="/assets/gallery/image-09.jpg" alt="French tip nail art">
+            <span>French tips</span>
+          </button>
+          <button class="gallery-item" data-gallery="art">
+            <img src="/assets/gallery/image-10.jpg" alt="Creative nail art">
+            <span>Creative art</span>
+          </button>
+          <button class="gallery-item wide" data-gallery="luxury">
+            <img src="/assets/gallery/image-11.jpg" alt="Luxury manicure">
+            <span>Luxury finish</span>
+          </button>
+          <button class="gallery-item" data-gallery="acrylic">
+            <img src="/assets/gallery/image-12.jpg" alt="Acrylic design">
+            <span>Acrylic set</span>
+          </button>
+          <button class="gallery-item" data-gallery="gel">
+            <img src="/assets/gallery/image-13.jpg" alt="Gel manicure">
+            <span>Glossy gel</span>
+          </button>
+          <button class="gallery-item" data-gallery="luxury">
+            <img src="/assets/gallery/image-14.jpg" alt="Luxury salon detail">
+            <span>Studio ritual</span>
+          </button>
+          <button class="gallery-item" data-gallery="art">
+            <img src="/assets/gallery/image-15.jpg" alt="Nail art process">
+            <span>Fine detail</span>
+          </button>
+        </div>
+      </section>
+
+      <section id="pricing" class="section pricing-section reveal-on-scroll">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Simple & clear</p>
+            <h2>
+              Premium, without<br>
+              <em>the mystery.</em>
+            </h2>
+          </div>
+          <p>
+            Choose a service that feels right. Final pricing is confirmed with your chosen look
+            and add-ons.
+          </p>
+        </div>
+
+        <div class="pricing-grid">
+          <article>
+            <p>Signature</p>
+            <h3>Rubber Base</h3>
+            <strong>From R350</strong>
+            <span>Natural, polished strength</span>
+            <a href="#booking">Book now →</a>
+          </article>
+          <article class="popular">
+            <p>Most loved</p>
+            <h3>PolyGel Overlay</h3>
+            <strong>From R400</strong>
+            <span>Long-wearing, tailored finish</span>
+            <a href="#booking">Book now →</a>
+          </article>
+          <article>
+            <p>Statement</p>
+            <h3>Russian Manicure</h3>
+            <strong>R450</strong>
+            <span>Detailed, immaculate care</span>
+            <a href="#booking">Book now →</a>
+          </article>
+          <article>
+            <p>Academy</p>
+            <h3>Beginner Class</h3>
+            <strong>From R1,800</strong>
+            <span>Your foundation in nail technology</span>
+            <button data-auth-open="signup">Enroll →</button>
+          </article>
+        </div>
+      </section>
+
+      <section class="section media-preview-section reveal-on-scroll">
+        <div class="section-heading media-heading">
+          <div>
+            <p class="eyebrow">Video gallery</p>
+            <h2>Watch the <em>finish.</em></h2>
+          </div>
+          <button
+            type="button"
+            class="button button-dark media-upload-button"
+            aria-label="Upload a video"
+          >
+            ＋ Upload video
+          </button>
+        </div>
+
+        <div class="video-grid">
+          <article class="video-item video-item-featured">
+            <div class="video-poster">
+              <img src="/assets/gallery/image-08.jpg" alt="Nude gel manicure video preview">
+              <span class="play-button" aria-hidden="true">▶</span>
+              <span class="video-duration">0:24</span>
+            </div>
+            <div class="video-caption">
+              <span>Gel details</span>
+              <h3>Clean prep, glossy finish</h3>
+            </div>
+          </article>
+
+          <article class="video-item">
+            <div class="video-poster">
+              <img src="/assets/gallery/image-10.jpg" alt="Creative nail art video preview">
+              <span class="play-button" aria-hidden="true">▶</span>
+              <span class="video-duration">0:18</span>
+            </div>
+            <div class="video-caption">
+              <span>Creative art</span>
+              <h3>Details that make it yours</h3>
+            </div>
+          </article>
+
+          <article class="video-item">
+            <div class="video-poster">
+              <img src="/assets/gallery/image-11.jpg" alt="Luxury manicure video preview">
+              <span class="play-button" aria-hidden="true">▶</span>
+              <span class="video-duration">0:31</span>
+            </div>
+            <div class="video-caption">
+              <span>Luxury finish</span>
+              <h3>The final reveal</h3>
+            </div>
+          </article>
+
+          <article class="video-item">
+            <div class="video-poster">
+              <img src="/assets/gallery/image-13.jpg" alt="Glossy gel video preview">
+              <span class="play-button" aria-hidden="true">▶</span>
+              <span class="video-duration">0:15</span>
+            </div>
+            <div class="video-caption">
+              <span>Glossy gel</span>
+              <h3>Shine from every angle</h3>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="testimonials reveal-on-scroll">
+        <div>
+          <p class="eyebrow">Client & student notes</p>
+          <h2>
+            Kind words,<br>
+            <em>real growth.</em>
+          </h2>
+        </div>
+
+        <div class="testimonial-list">
+          <blockquote>
+            “The attention to detail is exceptional. I left feeling put together and completely
+            myself.”
+            <footer>— Zanele, salon client</footer>
+          </blockquote>
+          <blockquote>
+            “The lessons made everything feel achievable. I finally understand the why behind the
+            technique.”
+            <footer>— Lerato, academy student</footer>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="faq-section reveal-on-scroll">
+        <div>
+          <p class="eyebrow">Good to know</p>
+          <h2>
+            Questions,<br>
+            <em>answered.</em>
+          </h2>
+        </div>
+
+        <div class="faq-list">
+          <details>
+            <summary>How do I book an appointment?</summary>
+            <p>Choose your service and preferred time below. We will confirm your appointment shortly.</p>
+          </details>
+          <details>
+            <summary>Do you offer custom nail designs?</summary>
+            <p>Absolutely. Add your idea or reference in the booking notes so we can prepare.</p>
+          </details>
+          <details>
+            <summary>Can beginners join the academy?</summary>
+            <p>
+              Yes. The beginner course starts with hygiene, nail anatomy, tools, prep,
+              structure, and safe finishing.
+            </p>
+          </details>
+          <details>
+            <summary>How does student course access work?</summary>
+            <p>Students complete their available course lessons to unlock the next course in the learning path.</p>
+          </details>
+        </div>
+      </section>
+
+      <section id="booking" class="booking-section reveal-on-scroll">
+        <div>
+          <p class="eyebrow">Come through</p>
+          <h2>
+            Your perfect nails<br>
+            <em>start here.</em>
+          </h2>
+          <p>Tell us what you have in mind. We will take it from there.</p>
+        </div>
+
+        <form id="booking-form">
+          <label>
+            Name
+            <input name="name" required placeholder="Your name">
+          </label>
+          <label>
+            Email
+            <input type="email" name="email" required placeholder="you@example.com">
+          </label>
+          <label>
+            Phone
+            <input name="phone" type="tel" required placeholder="Your phone number">
+          </label>
+          <label>
+            Service
+            <select name="service" required>
+              <option value="">Choose a service</option>
+            </select>
+          </label>
+          <label>
+            Date
+            <input type="date" name="date" required>
+          </label>
+          <label>
+            Time
+            <input type="time" name="time" required>
+          </label>
+          <label class="notes">
+            Notes
+            <textarea name="message" placeholder="Your preferred look, length, or anything else"></textarea>
+          </label>
+          <button class="button button-light" type="submit">Request appointment ↗</button>
+          <p id="form-message" class="form-message" role="status"></p>
+        </form>
+      </section>
+    </main>
+
+    <footer id="contact">
+      <div>
+        <a class="footer-brand" href="#home">NailsByDav</a>
+        <p>Professional nail artistry, beauty and education.</p>
+      </div>
+      <div>
+        <strong>Visit</strong>
+        <p>Johannesburg, South Africa<br>By appointment</p>
+      </div>
+      <div>
+        <strong>Connect</strong>
+        <a href="mailto:nailsbydav@gmail.com">nailsbydav@gmail.com</a>
+        <a href="#booking">Instagram · WhatsApp</a>
+      </div>
+      <small>© 2026 NailsByDav. All rights reserved.</small>
+    </footer>
+
+    <dialog id="auth-dialog" class="auth-dialog">
+      <button class="dialog-close" aria-label="Close">×</button>
+      <div id="auth-content"></div>
+    </dialog>
+
+    <dialog id="gallery-dialog" class="gallery-dialog">
+      <button class="dialog-close" aria-label="Close">×</button>
+      <img alt="Expanded gallery image">
+      <p></p>
+    </dialog>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
+
