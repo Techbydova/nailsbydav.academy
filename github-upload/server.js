@@ -254,7 +254,13 @@ function parseMultipartForm(request) {
 }
 
 function serveFile(request, response, pathname) {
-  const requested = pathname === '/' ? '/index.html' : pathname;
+  const aliases = {
+    '/pricing': '/pricing.html',
+    '/terms': '/terms.html',
+    '/privacy': '/privacy.html',
+    '/refunds': '/refunds.html'
+  };
+  const requested = pathname === '/' ? '/index.html' : (aliases[pathname] || pathname);
   const filePath = path.normalize(path.join(publicDir, requested));
   if (!filePath.startsWith(publicDir)) return sendJson(response, 403, { error: 'Forbidden' });
 

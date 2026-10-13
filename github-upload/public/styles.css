@@ -3337,6 +3337,10 @@ dialog::backdrop {
     margin-left: 7%;
   }
 
+  .hero-art {
+    min-height: 390px;
+  }
+
   .hero-proof {
     gap: 12px;
     margin-top: 52px;
@@ -3438,5 +3442,156 @@ dialog::backdrop {
 
   .dashboard-top button {
     margin-top: 15px;
+  }
+}
+
+.policy-link-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  margin-top: 20px;
+}
+
+.policy-link-list a {
+  color: var(--rose);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.policy-page {
+  width: min(var(--max), calc(100% - 48px));
+  margin: 0 auto;
+  padding: 72px 0 90px;
+}
+
+.policy-page-hero {
+  padding: 48px 0 20px;
+}
+
+.policy-page-hero p {
+  max-width: 630px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: 1.03rem;
+}
+
+.policy-grid {
+  display: grid;
+  grid-template-columns: 1.25fr .75fr;
+  gap: 30px;
+  align-items: start;
+}
+
+.policy-content,
+.policy-aside {
+  background: rgba(255, 255, 255, .62);
+  border: 1px solid var(--line);
+  padding: 28px 26px;
+}
+
+.policy-content h2,
+.policy-aside h3 {
+  margin-bottom: 12px;
+  font-size: 2rem;
+}
+
+.policy-content h3,
+.policy-aside h4 {
+  margin: 26px 0 12px;
+  font-size: 1.2rem;
+}
+
+.policy-content p,
+.policy-content li,
+.policy-aside p,
+.policy-aside li {
+  color: #5d504a;
+  font-size: .98rem;
+  line-height: 1.75;
+}
+
+.policy-content ul,
+.policy-aside ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pricing-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 32px;
+}
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 360px;
+  padding: 26px 22px;
+  background: #fffaf6;
+  border: 1px solid var(--line);
+}
+
+.pricing-card.featured {
+  background: var(--ink);
+  color: #fff;
+}
+
+.pricing-card.featured p,
+.pricing-card.featured li,
+.pricing-card.featured small,
+.pricing-card.featured .pricing-footnote {
+  color: #f2dbd1;
+}
+
+.pricing-label {
+  margin: 0;
+  color: var(--rose);
+  font-size: .68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.pricing-card h3 {
+  margin: 24px 0 18px;
+  font-size: 2rem;
+}
+
+.pricing-price {
+  margin: 0;
+  font-size: 2.2rem;
+  line-height: 1.1;
+}
+
+.pricing-card ul {
+  margin: 18px 0 12px;
+  padding-left: 1.2rem;
+  color: var(--muted);
+}
+
+.pricing-footnote {
+  margin-top: auto;
+  color: var(--muted);
+  font-size: .8rem;
+}
+
+.billing-note {
+  margin-top: 18px;
+  padding: 16px 18px;
+  background: #f3e6dd;
+  border-left: 4px solid var(--rose);
+  color: #574b47;
+}
+
+.pricing-card .button {
+  margin-top: 18px;
+  align-self: flex-start;
+}
+
+@media (max-width: 900px) {
+  .policy-grid,
+  .pricing-cards {
+    grid-template-columns: 1fr;
   }
 }
