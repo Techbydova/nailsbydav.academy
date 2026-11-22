@@ -1,5 +1,5 @@
 const academyEsc = value => String(value ?? '').replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
-const academyPrice = course => course.price === null || course.price === undefined || course.price === '' ? '' : new Intl.NumberFormat('en-ZA', { style: 'currency', currency: course.currency || 'ZAR', maximumFractionDigits: 0 }).format(Number(course.price));
+const academyPrice = course => course.price === null || course.price === undefined || course.price === '' ? '' : new Intl.NumberFormat('en-US', { style: 'currency', currency: course.currency || 'USD', maximumFractionDigits: 0 }).format(Number(course.price));
 const academyMeta = course => [course.duration, course.level, course.category].filter(Boolean);
 const academyStatus = (element, message, state = '') => {
   element.dataset.state = state;

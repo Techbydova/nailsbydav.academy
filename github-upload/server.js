@@ -40,11 +40,11 @@ const publicBaseUrl = process.env.PUBLIC_BASE_URL || `http://localhost:${port}`;
 const courses = readJson(coursesFile, []);
 
 const services = [
-  { id: 'polygel-overlay', name: 'PolyGel Overlay', price: 'From $400', duration: '90 min', image: '/assets/gallery/image-10.jpg' },
-  { id: 'polygel-tips', name: 'PolyGel Tips', price: 'From $450', duration: '120 min', image: '/assets/gallery/image-11.jpg' },
-  { id: 'acrylic-overlay', name: 'Acrylic Overlay', price: 'From $380', duration: '90 min', image: '/assets/gallery/image-12.jpg' },
-  { id: 'rubber-base', name: 'Rubber Base Overlay', price: 'From $350', duration: '75 min', image: '/assets/gallery/image-13.jpg' },
-  { id: 'russian-manicure', name: 'Russian Manicure', price: '$450', duration: '60 min', image: '/assets/gallery/image-14.jpg' }
+  { id: 'polygel-overlay', name: 'PolyGel Overlay', description: 'A strong, lightweight overlay with a smooth, natural finish.', duration: '90 min', image: '/assets/gallery/image-10.jpg' },
+  { id: 'polygel-tips', name: 'PolyGel Tips', description: 'Elegant added length, shaped to suit your hands and style.', duration: '120 min', image: '/assets/gallery/image-11.jpg' },
+  { id: 'acrylic-overlay', name: 'Acrylic Overlay', description: 'Durable, beautifully sculpted nails with a flawless polished finish.', duration: '90 min', image: '/assets/gallery/image-12.jpg' },
+  { id: 'rubber-base', name: 'Rubber Base Overlay', description: 'Flexible reinforcement for stronger, healthier-looking natural nails.', duration: '75 min', image: '/assets/gallery/image-13.jpg' },
+  { id: 'russian-manicure', name: 'Russian Manicure', description: 'Detailed cuticle care and precise preparation for a clean, refined look.', duration: '60 min', image: '/assets/gallery/image-14.jpg' }
 ];
 
 function sendJson(response, status, payload) {
@@ -142,7 +142,7 @@ function publicCourse(course) {
     overview: course.overview || course.description || course.shortDescription,
     price: course.price,
     currency: course.currency,
-    displayPrice: course.price === null || course.price === undefined || course.price === '' ? null : new Intl.NumberFormat('en-ZA', { style: 'currency', currency: course.currency || 'ZAR', maximumFractionDigits: 0 }).format(Number(course.price)),
+    displayPrice: course.price === null || course.price === undefined || course.price === '' ? null : new Intl.NumberFormat('en-US', { style: 'currency', currency: course.currency || paystackCurrency, maximumFractionDigits: 0 }).format(Number(course.price)),
     duration: course.duration,
     level: course.level,
     category: course.category,
@@ -275,10 +275,10 @@ function serveFile(request, response, pathname) {
 const server = http.createServer(async (request, response) => {
   const url = new URL(request.url, `http://${request.headers.host}`);
 
-  if (url.pathname === '/api/courses' && request.method === 'GET') return sendJson(response, 200, courses.filter(course => course.published).map(publicCourse));
+  if (url.pathname === '/api/courses' && request.method === 'GET') return sendJson(response, 200, courses.filter(course => course.published && course.availableForEnrollment !== false).sort((first, second) => Number(first.price) - Number(second.price)).map(publicCourse));
   const courseDetailsMatch = url.pathname.match(/^\/api\/courses\/([^/]+)$/);
   if (courseDetailsMatch && request.method === 'GET') {
-    const course = courses.find(item => item.published && (item.id === courseDetailsMatch[1] || item.slug === courseDetailsMatch[1]));
+    const course = courses.find(item => item.published && item.availableForEnrollment !== false && (item.id === courseDetailsMatch[1] || item.slug === courseDetailsMatch[1]));
     return course ? sendJson(response, 200, publicCourse(course)) : sendJson(response, 404, { error: 'Course not found.' });
   }
   const protectedLessonMatch = url.pathname.match(/^\/api\/student\/courses\/([^/]+)\/lessons\/([^/]+)$/);
@@ -373,7 +373,7 @@ const server = http.createServer(async (request, response) => {
     try {
       const body = await readBody(request);
       const name = String(body.name || '').trim(), email = String(body.email || '').trim().toLowerCase(), phone = String(body.phone || '').trim(), password = String(body.password || ''), selectedCourse = String(body.course || '').trim();
-      if (!name || !/^\S+@\S+\.\S+$/.test(email) || !phone || !courses.some(course => course.id === selectedCourse && course.published) || password.length < 8) return sendJson(response, 400, { error: 'Please complete every field, choose a course, and use a password with at least 8 characters.' });
+      if (!name || !/^\S+@\S+\.\S+$/.test(email) || !phone || !courses.some(course => course.id === selectedCourse && course.published && course.availableForEnrollment !== false) || password.length < 8) return sendJson(response, 400, { error: 'Please complete every field, choose a course, and use a password with at least 8 characters.' });
       const students = readJson(studentsFile, []);
       if (students.some(student => student.email === email)) return sendJson(response, 409, { error: 'An account already exists for this email. Please log in.' });
       const student = { id: `student_${crypto.randomUUID()}`, name, email, phone, selectedCourse, paymentStatus: 'pending', password: hashPassword(password), progress: {}, createdAt: new Date().toISOString(), lastLoginAt: new Date().toISOString() };
@@ -401,8 +401,11 @@ const server = http.createServer(async (request, response) => {
     const student = currentStudent(request), course = url.searchParams.get('course') || student?.selectedCourse || 'beginner';
     if (!student) return sendJson(response, 401, { error: 'Please register or log in before paying.' });
     const selectedCourse = courseById(course);
-    if (!selectedCourse?.published || !Number.isFinite(Number(selectedCourse.price))) return sendJson(response, 400, { error: 'Course payment is unavailable.' });
+    if (!selectedCourse?.published || selectedCourse.availableForEnrollment === false || !Number.isFinite(Number(selectedCourse.price))) return sendJson(response, 400, { error: 'Course payment is unavailable.' });
     if (!paystackSecretKey) return sendJson(response, 503, { error: 'Paystack is not configured yet. Add PAYSTACK_SECRET_KEY to the server environment.' });
+    const planEnvironmentKey = `PAYSTACK_PLAN_${selectedCourse.id.replace(/[^a-z0-9]/gi, '_').toUpperCase()}`;
+    const paystackPlanCode = process.env[planEnvironmentKey] || '';
+    if (!paystackPlanCode) return sendJson(response, 503, { error: `Monthly billing is not configured for this course. Set ${planEnvironmentKey} to its Paystack plan code.` });
     try {
       const reference = `nd_${student.id}_${Date.now()}`;
       const paystackResponse = await fetch('https://api.paystack.co/transaction/initialize', {
@@ -410,8 +413,7 @@ const server = http.createServer(async (request, response) => {
         headers: { Authorization: `Bearer ${paystackSecretKey}`, 'Content-Type': 'application/json' },
         body: JSON.stringify({
           email: student.email,
-          amount: Math.round(Number(selectedCourse.price) * 100),
-          currency: paystackCurrency,
+          plan: paystackPlanCode,
           reference,
           callback_url: `${publicBaseUrl}/student-dashboard.html?payment=success`,
           metadata: { studentId: student.id, course },

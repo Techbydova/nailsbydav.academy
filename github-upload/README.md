@@ -22,14 +22,22 @@ Configure these environment variables before accepting payments:
 
 ```text
 PAYSTACK_SECRET_KEY=sk_test_your-secret-key
-PAYSTACK_CURRENCY=NGN
-PUBLIC_BASE_URL=https://your-domain.example
+PAYSTACK_CURRENCY=USD
+PUBLIC_BASE_URL=https://nailsbydav.academy
+PAYSTACK_PLAN_BEGINNER=plan_code_from_paystack
+PAYSTACK_PLAN_ADVANCED=plan_code_from_paystack
+PAYSTACK_PLAN_MASTERCLASS=plan_code_from_paystack
 ```
 
 Use your Paystack test secret key while testing. Create a webhook endpoint at
 `/api/paystack/webhook` in Paystack. Paystack signs webhook requests with your
 secret key; the server verifies that signature before granting access.
 `PUBLIC_BASE_URL` must be a public HTTPS URL for the payment callback.
+Create monthly USD plans in Paystack for $15 Beginner, $20 Intermediate, and $25
+Master access, then set the corresponding plan codes above. The existing course
+IDs are retained: `ADVANCED` is the Intermediate plan and `MASTERCLASS` is the
+Master plan. Checkout remains unavailable for monthly billing until each plan
+code is configured.
 
 ## Backend routes
 

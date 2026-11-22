@@ -2694,10 +2694,18 @@ h2 {
 
 .service-detail {
   display: flex;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 8px;
   color: #796c64;
   font-size: .67rem;
+}
+
+.service-writeup {
+  max-width: 145px;
+  margin: 0;
+  text-align: right;
+  line-height: 1.45;
 }
 
 .academy-section,
